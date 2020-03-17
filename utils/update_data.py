@@ -23,11 +23,11 @@ csv_file = DATAFRAME_PATH + "df_data.tsv"
 def get_features_from_filename(filename):
     arr_features = filename.split("%")
     country, city, time = arr_features[0], arr_features[1], arr_features[2]
-    return country, city, time
+    return country, city, time[:-4]
 
 
 def get_nb_people(filename):
-    pass
+    return 5
 
 
 def update_data(dir_name = IMAGES_PATH):
@@ -39,24 +39,26 @@ def update_data(dir_name = IMAGES_PATH):
 
     # for each filenames get number of people detected by Yolov
     arr_nb_detected = [get_nb_people(filename) for filename in arr_filenames]
-
-    df = pd.DataFrame( )
+    print(arr_nb_detected)
+    df = pd.DataFrame()
     df['country'] = arr_country
     df['city'] = arr_city
-    df['time'] = arr_time
+    df['datetime'] = arr_time
+    df['nb_detected'] = arr_nb_detected
     return df
 
-df = update_data(dir_name = IMAGES_PATH)
-
-if Path(csv_file).exists():
-    # concatenate old df with new df
-    old_df = pd.read_csv(csv_file, parse_dates=True, sep='\t')
-    df = pd.concat([old_df, df], sort=True)
-    # empty directory
-    shutil.rmtree(IMAGES_PATH)
-
-
-df = df.set_index('datetime').fillna(0)
-
-df.sort_values(by=['datetime'], inplace=True)
-df.save(csv_file, sep='\t')
+# df = update_data(dir_name = IMAGES_PATH)
+#
+# if Path(csv_file).exists():
+#     # concatenate old df with new df
+#     old_df = pd.read_csv(csv_file, parse_dates=True, sep='\t')
+#     df = pd.concat([old_df, df], sort=True)
+#     # empty directory
+#     shutil.rmtree(IMAGES_PATH)
+#     # create directory again
+#     os.makedirs(IMAGES_PATH)
+#
+# df = df.set_index('datetime').fillna(0)
+#
+# df.sort_values(by=['datetime'], inplace=True)
+# df.to_csv(csv_file, sep='\t')

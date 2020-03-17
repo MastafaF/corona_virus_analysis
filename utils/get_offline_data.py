@@ -19,6 +19,7 @@ import time
 assert os.environ.get('CORONA'), 'Please set the environment variable CORONA'
 CORONA = os.environ['CORONA']
 DATA_PATH = CORONA + "/data/"
+IMAGES_PATH = DATA_PATH + "images/"
 sys.path.append(CORONA + '/data/')
 
 from PIL import Image
@@ -33,7 +34,7 @@ import numpy as np
 
 MAX_NB_FILES = 10
 
-def get_nb_files_in_dir(dir_name = DATA_PATH):
+def get_nb_files_in_dir(dir_name = IMAGES_PATH):
     arr_files = os.listdir(dir_name)
     nb_files = len(arr_files)
     return nb_files

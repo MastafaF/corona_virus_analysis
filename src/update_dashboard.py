@@ -31,6 +31,11 @@ counter = 0
 # Get image every 5 minutes
 # For each URL, we have the correponding city, town in config
 URL = 'http://83.140.123.184/ImageHarvester/Images/copyright!-stureplan_1_live.jpg'
+
+#Check if directory exist
+if not Path(IMAGES_PATH).exists():
+    os.makedirs(IMAGES_PATH)
+
 while get_nb_files_in_dir() < MAX_NB_FILES:
     _, _ = get_image(url = URL, save = True)
     counter += 1

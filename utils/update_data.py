@@ -26,7 +26,7 @@ csv_file = DATAFRAME_PATH + "df_data.tsv"
 def get_features_from_filename(filename):
     arr_features = filename.split("%")
     country, city, time = arr_features[0], arr_features[1], arr_features[2]
-    return country, city, time[:-5]
+    return country, city, time
 
 
 def get_nb_people(filename):

@@ -5,14 +5,24 @@ It uses OpenCV implementation of YOLO
 
 import numpy as np
 import cv2
+import os
+import sys
 
+# $Env:CORONA = "C:\Users\Quentin\Desktop\corona_virus_analysis"
 assert os.environ.get('CORONA'), 'Please set the environment variable CORONA'
 CORONA = os.environ['CORONA']
 CONFIG_PATH = CORONA + "/config/"
-WEIGHTS_PATH = DATA_PATH + "/weights/"
+WEIGHTS_PATH = CORONA + "/weights/"
 sys.path.append(CORONA + '/data/')
 
+
 def count_image(path):
+    """
+    arg: path is the path of an image jpg file
+    return: the number of identified person in the image
+    """
+    print (path)
+    #init counter
     count_person = 0
     
     # Loading image
@@ -36,11 +46,14 @@ def count_image(path):
     
     #extract person detected
     for out in outs:
-        # the score associated to person object is at index 5
-        score_person = detection[5]
-        if score_person > 0.5:
-            # Object detected
-            count_person += 1
+        for detection in out:
+            # the score associated to person object is at index 5
+            score_person = detection[5]
+            if score_person > 0.5:
+                # Object detected
+                count_person += 1
     
     return count_person
+
+print(count_image(CORONA+'/data/images/test.jpg'))
     

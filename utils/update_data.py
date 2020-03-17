@@ -50,15 +50,13 @@ df = update_data(dir_name = IMAGES_PATH)
 
 if Path(csv_file).exists():
     # concatenate old df with new df
-    old_df = pd.read_csv(csv_file, parse_dates=True)
+    old_df = pd.read_csv(csv_file, parse_dates=True, sep='\t')
     df = pd.concat([old_df, df], sort=True)
     # empty directory
     shutil.rmtree(IMAGES_PATH)
 
+
 df = df.set_index('datetime').fillna(0)
 
 df.sort_values(by=['datetime'], inplace=True)
-
-
-
-
+df.save(csv_file, sep='\t')

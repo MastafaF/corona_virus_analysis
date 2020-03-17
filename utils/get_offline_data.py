@@ -40,6 +40,7 @@ def get_nb_files_in_dir(dir_name = DATA_PATH):
 
 URL = 'http://83.140.123.184/ImageHarvester/Images/copyright!-stureplan_1_live.jpg?counter=1584452098949'
 while get_nb_files_in_dir() < MAX_NB_FILES:
+    # @TODO: get country and town
     # SENT GET REQUEST TO SERVER
     response = requests.get(url=URL, stream=True)
     # GET IMAGE IN REQUEST
@@ -47,7 +48,7 @@ while get_nb_files_in_dir() < MAX_NB_FILES:
     # SAVE IMAGE IN DIR
     img_arr = np.array(img) # shape (480, 640, 3)
     time_now_str = datetime.now().strftime("%d-%m-%Y_%I-%M-%S_%p")
-    np.save(arr=img_arr, file=DATA_PATH+'img-'+time_now_str)
+    np.save(arr=img_arr, file=DATA_PATH+'Sweden%Stockholm%'+time_now_str)
     # process should sleep during 1 sec
     time.sleep(1)
 

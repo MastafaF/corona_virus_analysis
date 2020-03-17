@@ -6,6 +6,11 @@ It uses OpenCV implementation of YOLO
 import numpy as np
 import cv2
 
+assert os.environ.get('CORONA'), 'Please set the environment variable CORONA'
+CORONA = os.environ['CORONA']
+CONFIG_PATH = CORONA + "/config/"
+WEIGHTS_PATH = DATA_PATH + "/weights/"
+sys.path.append(CORONA + '/data/')
 
 def count_image(path):
     count_person = 0
@@ -19,15 +24,10 @@ def count_image(path):
     height, width, channels = img.shape
 
     # Load Yolo
-    net = cv2.dnn.readNet("yolov3.weights", "yolov3.cfg")
+    net = cv2.dnn.readNet(WEIGHTS_PATH + "yolov3.weights",WEIGHTS_PATH + "yolov3.cfg")
     layer_names = net.getLayerNames()
     output_layers = [layer_names[i[0] - 1] for i in net.getUnconnectedOutLayers()]
     
-    # define classes
-    classes = []
-    with open("coco.names", "r") as f:
-        classes = [line.strip() for line in f.readlines()]
-
     
     # Detecting objects
     blob = cv2.dnn.blobFromImage(img, 0.00392, dsize, (0, 0, 0), True, crop=False)

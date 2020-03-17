@@ -30,11 +30,11 @@ def get_nb_files_in_dir(dir_name = IMAGES_PATH):
 counter = 0
 # Get image every 5 minutes
 # For each URL, we have the correponding city, town in config
-URL = 'http://83.140.123.184/ImageHarvester/Images/copyright!-stureplan_1_live.jpg?counter=1584452098949'
+URL = 'http://83.140.123.184/ImageHarvester/Images/copyright!-stureplan_1_live.jpg'
 while get_nb_files_in_dir() < MAX_NB_FILES:
     _, _ = get_image(url = URL, save = True)
     counter += 1
-    time.sleep(5)
+    time.sleep(1)
 
 # And then when counter is a multiple of 12 ie after every hour, add that information to dataframe
 # By updating data with utils/update_data.py
@@ -51,9 +51,15 @@ if counter % FACTOR_HOURS == 0:
         old_df = pd.read_csv(csv_file, parse_dates=True, sep='\t')
         df = pd.concat([old_df, df], sort=True)
         # empty directory
-        shutil.rmtree(IMAGES_PATH)
-        # create directory again
-        os.makedirs(IMAGES_PATH)
+        
+        #shutil.rmtree(IMAGES_PATH)
+        ## create directory again
+        #os.makedirs(IMAGES_PATH)
+        
+        filelist = [ f for f in os.listdir(IMAGES_PATH) if f.endswith(".jpeg") ]
+        for f in filelist:
+            os.remove(os.path.join(IMAGES_PATH, f))
+
 
 
     df = df.set_index('datetime').fillna(0)

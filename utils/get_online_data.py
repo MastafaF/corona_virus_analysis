@@ -43,9 +43,9 @@ def get_image(url = URL, save = False):
     # GET IMAGE IN REQUEST
     img = Image.open(response.raw)
     # SAVE IMAGE IN DIR
-    img_arr = np.array(img)  # shape (480, 640, 3)
+    # img_arr = np.array(img)  # shape (480, 640, 3)
     time_now_str = datetime.now().strftime("%d-%m-%Y_%I-%M-%S_%p")
     if save:
-        np.save(arr=img_arr, file=IMAGES_PATH + 'Sweden%Stockholm%' + time_now_str)
-
-    return img_arr, time_now_str
+        #np.save(arr=img_arr, file=IMAGES_PATH + 'Sweden%Stockholm%' + time_now_str)
+        img.save(IMAGES_PATH + 'Sweden%Stockholm%' + time_now_str + ".jpeg")
+    return img, time_now_str

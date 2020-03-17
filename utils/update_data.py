@@ -17,18 +17,20 @@ DATA_PATH = CORONA + "/data/"
 IMAGES_PATH = DATA_PATH + "images/"
 DATAFRAME_PATH = DATA_PATH + "dataframe/"
 sys.path.append(CORONA + '/data/')
+sys.path.append(CORONA + '/utils/')
+
+from count_person import count_person
 
 csv_file = DATAFRAME_PATH + "df_data.tsv"
 
 def get_features_from_filename(filename):
     arr_features = filename.split("%")
     country, city, time = arr_features[0], arr_features[1], arr_features[2]
-    return country, city, time[:-4]
+    return country, city, time[:-5]
 
 
 def get_nb_people(filename):
     return 5
-
 
 def update_data(dir_name = IMAGES_PATH):
     # iterate over the directory and get all filenames
@@ -36,10 +38,10 @@ def update_data(dir_name = IMAGES_PATH):
     arr_country = [get_features_from_filename(filename)[0] for filename in arr_filenames]
     arr_city = [get_features_from_filename(filename)[1] for filename in arr_filenames]
     arr_time = [get_features_from_filename(filename)[2] for filename in arr_filenames]
-
+    
     # for each filenames get number of people detected by Yolov
-    arr_nb_detected = [get_nb_people(filename) for filename in arr_filenames]
-    print(arr_nb_detected)
+    arr_nb_detected = [count_person(IMAGES_PATH + filename) for filename in arr_filenames]
+    #print(arr_nb_detected)
     df = pd.DataFrame()
     df['country'] = arr_country
     df['city'] = arr_city

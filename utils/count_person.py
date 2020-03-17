@@ -16,12 +16,12 @@ WEIGHTS_PATH = CORONA + "/weights/"
 sys.path.append(CORONA + '/data/')
 
 
-def count_image(path):
+def count_person(path):
     """
     arg: path is the path of an image jpg file
     return: the number of identified person in the image
     """
-    print (path)
+    
     #init counter
     count_person = 0
     
@@ -55,5 +55,3 @@ def count_image(path):
     
     return count_person
 
-print(count_image(CORONA+'/data/images/test.jpg'))
-    

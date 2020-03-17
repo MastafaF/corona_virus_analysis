@@ -26,20 +26,31 @@ import requests
 import matplotlib.pyplot as plt
 import numpy as np
 
+#
+# list = os.listdir(dir) # dir is your directory path
+# number_files = len(list)
+# print number_files
 
+MAX_NB_FILES = 10
+
+def get_nb_files_in_dir(dir_name = DATA_PATH):
+    arr_files = os.listdir(dir_name)
+    nb_files = len(arr_files)
+    return nb_files
 
 URL = 'http://83.140.123.184/ImageHarvester/Images/copyright!-stureplan_1_live.jpg?counter=1584452098949'
-
-def get_image(url = URL):
-    """
-    :param url: str
-    :return: numpy array correspond to the image, time the request is sent
-    """
+while get_nb_files_in_dir() < MAX_NB_FILES:
     # SENT GET REQUEST TO SERVER
     response = requests.get(url=URL, stream=True)
     # GET IMAGE IN REQUEST
     img = Image.open(response.raw)
     # SAVE IMAGE IN DIR
-    img_arr = np.array(img)  # shape (480, 640, 3)
+    img_arr = np.array(img) # shape (480, 640, 3)
     time_now_str = datetime.now().strftime("%d-%m-%Y_%I-%M-%S_%p")
-    return img_arr, time_now_str
+    np.save(arr=img_arr, file=DATA_PATH+'img-'+time_now_str)
+    # process should sleep during 1 sec
+    time.sleep(1)
+
+
+
+

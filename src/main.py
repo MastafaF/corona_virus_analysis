@@ -15,13 +15,13 @@ sys.path.append(CORONA + '/utils/')
 from update_dashboard import update_dashboard
 import time
 
-delay = 1
-max_nb_files = 10
+delay = 0
+max_nb_files = 1
 
 with open(CONFIG_PATH + 'config.json') as json_file:
     config = json.load(json_file)
     for webcam in config['webcams']:
-        
+       
         #print(webcam['url'],webcam['city'],webcam['country'],webcam['id'],delay,max_nb_files)
         
         update_dashboard(url = webcam['url'], city = webcam['city'], country = webcam['country'], zone_id = webcam['id'], delay = delay, max_nb_files = max_nb_files)

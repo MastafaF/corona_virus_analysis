@@ -29,13 +29,12 @@ def get_nb_files_in_dir(dir_name = IMAGES_PATH):
 # Number of images to gather before converting images into data
 MAX_NB_FILES = 10
 
-# Get image every 5 minutes
-delay = 1
+
 
 # For each URL, we have the correponding city, town in config
 URL = 'http://83.140.123.184/ImageHarvester/Images/copyright!-overtornea_1_live.jpg'
 
-def update_dashboard(url = URL, city = 'stockolm', country = 'sweden', zone_id = 0, delay = 300, max_nb_files = MAX_NB_FILES):
+def update_dashboard(url = URL, city = 'stockolm', country = 'sweden', zone_id = 0, delay = 0, max_nb_files = MAX_NB_FILES):
     counter = 0
     #Check if directory exist
     if not Path(IMAGES_PATH).exists():
@@ -44,7 +43,7 @@ def update_dashboard(url = URL, city = 'stockolm', country = 'sweden', zone_id =
     while get_nb_files_in_dir() < max_nb_files:
         _, _ = get_image(url, city, country, zone_id, True)
         counter += 1
-        time.sleep(1)
+        time.sleep(delay)
 
     # And then when counter is a multiple of 12 ie after every hour, add that information to dataframe
     # By updating data with utils/update_data.py

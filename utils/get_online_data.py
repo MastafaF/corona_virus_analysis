@@ -29,9 +29,9 @@ import numpy as np
 
 
 
-URL = 'http://83.140.123.184/ImageHarvester/Images/copyright!-stureplan_1_live.jpg?counter=1584452098949'
+#URL = 'http://83.140.123.184/ImageHarvester/Images/copyright!-stureplan_1_live.jpg?counter=1584452098949'
 
-def get_image(url = URL, save = False):
+def get_image(url, city, country, zone_id, save = False):
     """
     :param url: str
     :return: numpy array correspond to the image, time the request is sent
@@ -39,7 +39,7 @@ def get_image(url = URL, save = False):
     # @TODO: get country and town
     """
     # SENT GET REQUEST TO SERVER
-    response = requests.get(url=URL, stream=True)
+    response = requests.get(url, stream=True)
     # GET IMAGE IN REQUEST
     img = Image.open(response.raw)
     # SAVE IMAGE IN DIR
@@ -47,5 +47,5 @@ def get_image(url = URL, save = False):
     time_now_str = datetime.now().strftime("%d-%m-%Y_%I-%M-%S_%p")
     if save:
         #np.save(arr=img_arr, file=IMAGES_PATH + 'Sweden%Stockholm%' + time_now_str)
-        img.save(IMAGES_PATH + 'Sweden%Stockholm%' + time_now_str + ".jpeg")
+        img.save(IMAGES_PATH + city + '%' + country + '%' + time_now_str + '%' + str(zone_id) + ".jpeg")
     return img, time_now_str

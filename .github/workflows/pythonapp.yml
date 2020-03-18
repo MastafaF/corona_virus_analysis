@@ -31,7 +31,7 @@ jobs:
             git config --local user.email "action@github.com"
             git config --local user.name "GitHub Action"
             git pull
-            git add --all
+            git add ./data/test.txt
             git commit -m "Update dataframe"
       - name: Push to repo
         uses: ad-m/github-push-action@master

@@ -21,6 +21,11 @@ jobs:
             pip install -r ./requirements.txt
             export CORONA=$(pwd)
             echo $CORONA
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v1
+        with:
+          python-version: '3.8' # Semantic version range syntax or exact version of a Python version
+          architecture: 'x64' # Optional - x64 or x86, defaults to x64
       - name: Execute main.py
         run: |
             export CORONA=$(pwd)

@@ -24,7 +24,7 @@ jobs:
       - name: Execute test.py
         run: |
             export CORONA=$(pwd)
-            python ./src/test.py  --ExecutePreprocessor.timeout=1800
+            python ./src/test.py  
             
       - name: Commit files 
         run: |

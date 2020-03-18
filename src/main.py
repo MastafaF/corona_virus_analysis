@@ -1,6 +1,7 @@
 import sys
 import os
 import json
+from datetime import datetime, timedelta
 
 # export CORONA='/Users/foufamastafa/Documents/micro_projects/corona_virus'
 assert os.environ.get('CORONA'), 'Please set the environment variable CORONA'
@@ -18,10 +19,17 @@ import time
 delay = 0
 max_nb_files = 1
 
-with open(CONFIG_PATH + 'config.json') as json_file:
-    config = json.load(json_file)
-    for webcam in config['webcams']:
-       
-        #print(webcam['url'],webcam['city'],webcam['country'],webcam['id'],delay,max_nb_files)
+print('Run something..')
+dt = datetime.now() + timedelta(hours=12)
+
+while datetime.now() < dt:
+    with open(CONFIG_PATH + 'config.json') as json_file:
+        config = json.load(json_file)
+        for webcam in config['webcams']:
+
+            #print(webcam['url'],webcam['city'],webcam['country'],webcam['id'],delay,max_nb_files)
+
+            update_dashboard(url = webcam['url'], city = webcam['city'], country = webcam['country'], zone_id = webcam['id'], delay = delay, max_nb_files = max_nb_files)
+
+    time.sleep(120)
         
-        update_dashboard(url = webcam['url'], city = webcam['city'], country = webcam['country'], zone_id = webcam['id'], delay = delay, max_nb_files = max_nb_files)

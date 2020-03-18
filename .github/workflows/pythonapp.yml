@@ -9,7 +9,7 @@ on:
     - cron:  '* * * * *'
 
 jobs:
-  execute_notebooks:
+  execute_main:
     runs-on: ubuntu-latest
 
 

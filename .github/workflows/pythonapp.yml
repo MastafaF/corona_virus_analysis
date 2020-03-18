@@ -22,7 +22,7 @@ jobs:
           architecture: 'x64' # Optional - x64 or x86, defaults to x64
       - name: Install dependencies
         run: |
-            ls ./weight
+            ls ./weights
             python -m pip install --upgrade pip
             pip install -r ./requirements.txt
             export CORONA=$(pwd)

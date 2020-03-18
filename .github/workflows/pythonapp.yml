@@ -6,7 +6,7 @@ on:
       - master
 
   schedule: # every hour
-    - cron:  '*/5 * * * '
+    - cron:  '* * * * *'
 
 jobs:
   execute_notebooks:

@@ -4,4 +4,3 @@ opencv-python
 pathlib
 requests
 matplotlib
-python-tk

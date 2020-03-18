@@ -23,6 +23,7 @@ jobs:
             echo $CORONA
       - name: Execute test.py
         run: |
+            export CORONA=$(pwd)
             python ./src/test.py  --ExecutePreprocessor.timeout=1800
             
       - name: Commit files 

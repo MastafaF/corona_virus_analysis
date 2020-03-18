@@ -1,4 +1,4 @@
-name: Run notebooks and commit back
+name: Update dataframe from cameras
 
 on:
   push:

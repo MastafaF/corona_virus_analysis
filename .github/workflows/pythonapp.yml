@@ -21,7 +21,7 @@ jobs:
             pip install -r ./requirements.txt
       - name: Execute test.py
         run: |
-            python --execute --inplace ./src/test.py  --ExecutePreprocessor.timeout=1800
+            python ./src/test.py  --ExecutePreprocessor.timeout=1800
             
       - name: Commit files 
         run: |

@@ -1,0 +1,35 @@
+name: Run notebooks and commit back
+
+on:
+  push:
+    branches:
+      - master
+
+  schedule: # every hour
+    - cron:  '*/5 * * * '
+
+jobs:
+  execute_notebooks:
+    runs-on: ubuntu-latest
+
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: Install dependencies
+        run: |
+            python -m pip install --upgrade pip
+            pip install -r requirements.txt
+      - name: Execute test.py
+        run: |
+            python --execute --inplace test.py  --ExecutePreprocessor.timeout=1800
+            
+      - name: Commit files 
+        run: |
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add --all
+            git commit -m "Update dataframe"
+      - name: Push to repo
+        uses: ad-m/github-push-action@master
+        with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}

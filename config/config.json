@@ -1,15 +1,47 @@
 {
-    "webcams" : [
-        
-        {"id": 0,
-    "country": "Sweden",
-    "city": "Stockholm",
-    "url": "http://83.140.123.184/ImageHarvester/Images/copyright!-stureplan_1_live.jpg"},
-       
-        {"id": 1,
-    "country": "Sweden",
-    "city": "Overtornea ",
-    "url": "http://83.140.123.184/ImageHarvester/Images/copyright!-overtornea_1_live.jpg"}        
-        
-        ]
+  "webcams": [
+
+    {
+      "id": 0,
+      "country": "Sweden",
+      "city": "Stockholm",
+      "url": "http://83.140.123.184/ImageHarvester/Images/copyright!-stureplan_1_live.jpg"
+    },
+
+    {
+      "id": 0,
+      "country": "Sweden",
+      "city": "Stockholm",
+      "url": "http://83.140.123.181/ImageHarvester/Images/7651-sergelstorg_1_live.jpg"
+    },
+
+
+    {
+      "id": 0,
+      "country": "Sweden",
+      "city": "Stockholm",
+      "url": "http://liveevents.nu/webbkamera/tyreso/tyreso_1_320.jpg"
+    },
+    {
+      "id": 0,
+      "country": "Sweden",
+      "city": "Stockholm",
+      "url": "http://www.liveevent.se/stockholmsstad/stockholm_5_640.jpg"
+    },
+
+    {
+      "id": 0,
+      "country": "Sweden",
+      "city": "Goteborg",
+      "url": "http://data.goteborg.se/TrafficCamera/v0.2/CameraImage/83a5905d-7889-4bae-bd6d-0a7e67f4f6af/28"
+    },
+
+    {
+      "id": 1,
+      "country": "Sweden",
+      "city": "Overtornea ",
+      "url": "http://83.140.123.184/ImageHarvester/Images/copyright!-overtornea_1_live.jpg"
+    }
+
+  ]
 }

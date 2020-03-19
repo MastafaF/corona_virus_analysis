@@ -739,8 +739,8 @@ datetime	city	country	nb_detected
 19-03-2020_06-23-09_PM	Sweden	Overtornea 	0
 19-03-2020_06-31-12_PM	Sweden	Stockholm	1
 19-03-2020_06-31-13_PM	Sweden	Overtornea 	0
-19-03-2020_06-38-59_PM	Sweden	Stockholm	0
 19-03-2020_06-38-59_PM	Sweden	Overtornea 	0
+19-03-2020_06-38-59_PM	Sweden	Stockholm	0
 19-03-2020_06-47-14_PM	Sweden	Stockholm	1
 19-03-2020_06-47-15_PM	Sweden	Overtornea 	0
 19-03-2020_06-54-50_PM	Sweden	Stockholm	1
@@ -749,3 +749,5 @@ datetime	city	country	nb_detected
 19-03-2020_07-03-44_PM	Sweden	Overtornea 	0
 19-03-2020_07-11-10_PM	Sweden	Stockholm	1
 19-03-2020_07-11-11_PM	Sweden	Overtornea 	0
+19-03-2020_07-19-37_PM	Sweden	Stockholm	0
+19-03-2020_07-19-38_PM	Sweden	Overtornea 	0

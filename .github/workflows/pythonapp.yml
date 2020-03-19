@@ -28,7 +28,7 @@ jobs:
             export CORONA=$(pwd)
             echo $CORONA
             cd ./weights
-            wget https://pjreddie.com/media/files/yolov3.weights -P ./weights
+            wget https://pjreddie.com/media/files/yolov3.weights 
         
             
 

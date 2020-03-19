@@ -1,0 +1,45 @@
+name: Update dataframe from cameras
+
+on:
+  push:
+    branches:
+      - master
+
+  schedule: # every hour
+    - cron:  '* * * * *'
+
+jobs:
+  execute_main:
+    runs-on: ubuntu-latest
+
+
+    steps: #TODO: find right path for export CORONA=''
+      - uses: actions/checkout@v1
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v1
+        with:
+          python-version: '3.8' # Semantic version range syntax or exact version of a Python version
+          architecture: 'x64' # Optional - x64 or x86, defaults to x64
+      - name: Install dependencies
+        run: |
+            ls ./weights
+            python -m pip install --upgrade pip
+            pip install -r ./requirements.txt
+            export CORONA=$(pwd)
+            echo $CORONA
+
+      - name: Execute main.py
+        run: |
+            export CORONA=$(pwd)
+            python ./src/main.py  
+            
+      - name: Commit files 
+        run: |
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add ./data/test.txt
+            git commit -m "Update dataframe"
+      - name: Push to repo
+        uses: ad-m/github-push-action@master
+        with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}

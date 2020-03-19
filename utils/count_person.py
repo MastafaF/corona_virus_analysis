@@ -8,7 +8,7 @@ import cv2
 import os
 import sys
 
-# $Env:CORONA = "C:\Users\Quentin\Desktop\corona_virus_analysis"
+#  $Env:CORONA = "C:\Users\Quentin\Desktop\corona_virus_analysis"
 assert os.environ.get('CORONA'), 'Please set the environment variable CORONA'
 CORONA = os.environ['CORONA']
 CONFIG_PATH = CORONA + "/config/"

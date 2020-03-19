@@ -1,0 +1,6 @@
+pillow
+pandas
+opencv-python
+pathlib
+requests
+matplotlib

@@ -6,7 +6,7 @@ on:
       - master
 
   schedule: # every hour
-    - cron:  '* * * * *'
+    - cron:  '*/5 * * * *'
 
 jobs:
   execute_main:

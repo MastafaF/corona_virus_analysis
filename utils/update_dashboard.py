@@ -75,5 +75,4 @@ def update_dashboard(url = URL, city = 'stockolm', country = 'sweden', zone_id =
     df.sort_values(by=['datetime'], inplace=True)
     df.to_csv(csv_file, sep='\t')
 
-    print(df)
-    
+        

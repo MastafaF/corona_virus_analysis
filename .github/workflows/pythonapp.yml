@@ -6,7 +6,7 @@ on:
       - master
 
   schedule: # every hour
-    - cron:  '1 1 * * *'
+    - cron:  '* * * * *'
 
 jobs:
   execute_main:
@@ -26,10 +26,7 @@ jobs:
             python -m pip install --upgrade pip
             pip install -r ./requirements.txt
             export CORONA=$(pwd)
-            echo $CORONA
-            cd ./weights
-            if ! [ -f "yolov3.weights" ]; then wget https://pjreddie.com/media/files/yolov3.weights; fi
-            ls
+            echo $CORONA         
             
       - name: Commit files 
         run: |

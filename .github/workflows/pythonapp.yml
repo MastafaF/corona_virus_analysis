@@ -28,13 +28,8 @@ jobs:
             export CORONA=$(pwd)
             echo $CORONA
             cd ./weights
-            wget https://www.electrictoolbox.com/images/icons/linux-bsd.gif
+            if ! [ -f "yolov3.weights" ]; then wget https://www.electrictoolbox.com/images/icons/linux-bsd.gif; fi
             ls
-
-      - name: Execute main.py
-        run: |
-            export CORONA=$(pwd)
-            python ./src/main.py  
             
       - name: Commit files 
         run: |

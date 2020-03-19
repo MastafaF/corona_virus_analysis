@@ -1,802 +1,802 @@
-datetime	city	country	nb_detected
-18-03-2020_01-01-55_AM	Sweden	Stockholm	5.0
-18-03-2020_01-01-56_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-03-58_AM	Sweden	Stockholm	1.0
-18-03-2020_01-03-59_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-06-00_AM	Sweden	Stockholm	1.0
-18-03-2020_01-06-01_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-08-02_AM	Sweden	Stockholm	3.0
-18-03-2020_01-08-03_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-10-04_AM	Sweden	Stockholm	2.0
-18-03-2020_01-10-06_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-12-07_AM	Sweden	Stockholm	4.0
-18-03-2020_01-12-08_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-14-09_AM	Sweden	Stockholm	2.0
-18-03-2020_01-14-10_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-16-11_AM	Sweden	Stockholm	3.0
-18-03-2020_01-16-12_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-18-14_AM	Sweden	Stockholm	1.0
-18-03-2020_01-18-15_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-20-16_AM	Sweden	Stockholm	2.0
-18-03-2020_01-20-17_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-22-18_AM	Sweden	Stockholm	2.0
-18-03-2020_01-22-19_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-24-21_AM	Sweden	Stockholm	2.0
-18-03-2020_01-24-22_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-26-23_AM	Sweden	Stockholm	1.0
-18-03-2020_01-26-24_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-28-25_AM	Sweden	Stockholm	8.0
-18-03-2020_01-28-26_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-30-27_AM	Sweden	Stockholm	1.0
-18-03-2020_01-30-29_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-32-30_AM	Sweden	Stockholm	1.0
-18-03-2020_01-32-31_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-34-32_AM	Sweden	Stockholm	3.0
-18-03-2020_01-34-33_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-36-34_AM	Sweden	Stockholm	1.0
-18-03-2020_01-36-35_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-38-37_AM	Sweden	Stockholm	0.0
-18-03-2020_01-38-38_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-40-39_AM	Sweden	Stockholm	1.0
-18-03-2020_01-40-40_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-42-41_AM	Sweden	Stockholm	1.0
-18-03-2020_01-42-42_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-44-44_AM	Sweden	Stockholm	3.0
-18-03-2020_01-44-45_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-46-46_AM	Sweden	Stockholm	5.0
-18-03-2020_01-46-47_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-48-48_AM	Sweden	Stockholm	1.0
-18-03-2020_01-48-49_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-50-51_AM	Sweden	Stockholm	5.0
-18-03-2020_01-50-52_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-52-53_AM	Sweden	Stockholm	1.0
-18-03-2020_01-52-54_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-54-55_AM	Sweden	Stockholm	3.0
-18-03-2020_01-54-56_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-56-57_AM	Sweden	Stockholm	3.0
-18-03-2020_01-56-59_AM	Sweden	Overtornea 	0.0
-18-03-2020_01-59-00_AM	Sweden	Stockholm	3.0
-18-03-2020_01-59-01_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-01-02_AM	Sweden	Stockholm	4.0
-18-03-2020_02-01-03_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-03-04_AM	Sweden	Stockholm	6.0
-18-03-2020_02-03-05_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-05-07_AM	Sweden	Stockholm	3.0
-18-03-2020_02-05-08_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-07-09_AM	Sweden	Stockholm	4.0
-18-03-2020_02-07-10_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-09-11_AM	Sweden	Stockholm	2.0
-18-03-2020_02-09-12_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-11-13_AM	Sweden	Stockholm	5.0
-18-03-2020_02-11-15_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-13-16_AM	Sweden	Stockholm	3.0
-18-03-2020_02-13-17_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-15-18_AM	Sweden	Stockholm	3.0
-18-03-2020_02-15-19_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-17-20_AM	Sweden	Stockholm	2.0
-18-03-2020_02-17-22_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-19-23_AM	Sweden	Stockholm	5.0
-18-03-2020_02-19-24_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-21-25_AM	Sweden	Stockholm	4.0
-18-03-2020_02-21-26_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-23-27_AM	Sweden	Stockholm	1.0
-18-03-2020_02-23-28_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-25-30_AM	Sweden	Stockholm	2.0
-18-03-2020_02-25-31_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-27-32_AM	Sweden	Stockholm	5.0
-18-03-2020_02-27-33_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-29-34_AM	Sweden	Stockholm	6.0
-18-03-2020_02-29-35_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-31-37_AM	Sweden	Stockholm	4.0
-18-03-2020_02-31-38_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-33-39_AM	Sweden	Stockholm	5.0
-18-03-2020_02-33-40_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-35-41_AM	Sweden	Stockholm	4.0
-18-03-2020_02-35-43_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-37-44_AM	Sweden	Stockholm	4.0
-18-03-2020_02-37-45_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-39-46_AM	Sweden	Stockholm	3.0
-18-03-2020_02-39-47_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-41-48_AM	Sweden	Stockholm	4.0
-18-03-2020_02-41-50_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-43-52_AM	Sweden	Stockholm	3.0
-18-03-2020_02-43-53_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-45-54_AM	Sweden	Stockholm	3.0
-18-03-2020_02-45-55_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-47-57_AM	Sweden	Stockholm	3.0
-18-03-2020_02-47-58_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-49-59_AM	Sweden	Stockholm	3.0
-18-03-2020_02-50-00_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-52-01_AM	Sweden	Stockholm	1.0
-18-03-2020_02-52-02_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-54-03_AM	Sweden	Stockholm	3.0
-18-03-2020_02-54-05_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-56-06_AM	Sweden	Stockholm	3.0
-18-03-2020_02-56-07_AM	Sweden	Overtornea 	0.0
-18-03-2020_02-58-08_AM	Sweden	Stockholm	5.0
-18-03-2020_02-58-09_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-00-56_AM	Sweden	Stockholm	4.0
-18-03-2020_03-01-29_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-03-30_AM	Sweden	Stockholm	3.0
-18-03-2020_03-03-31_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-05-32_AM	Sweden	Stockholm	3.0
-18-03-2020_03-05-33_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-07-35_AM	Sweden	Stockholm	3.0
-18-03-2020_03-07-36_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-09-37_AM	Sweden	Stockholm	3.0
-18-03-2020_03-09-38_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-11-39_AM	Sweden	Stockholm	1.0
-18-03-2020_03-11-40_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-13-41_AM	Sweden	Stockholm	4.0
-18-03-2020_03-13-43_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-15-44_AM	Sweden	Stockholm	4.0
-18-03-2020_03-15-45_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-17-46_AM	Sweden	Stockholm	4.0
-18-03-2020_03-17-47_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-21-08_AM	Sweden	Stockholm	5.0
-18-03-2020_03-21-11_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-23-12_AM	Sweden	Stockholm	3.0
-18-03-2020_03-23-13_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-25-14_AM	Sweden	Stockholm	4.0
-18-03-2020_03-25-15_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-27-17_AM	Sweden	Stockholm	3.0
-18-03-2020_03-27-18_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-29-19_AM	Sweden	Stockholm	4.0
-18-03-2020_03-29-20_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-31-21_AM	Sweden	Stockholm	5.0
-18-03-2020_03-31-22_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-33-39_AM	Sweden	Stockholm	6.0
-18-03-2020_03-33-43_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-35-44_AM	Sweden	Stockholm	4.0
-18-03-2020_03-35-45_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-37-47_AM	Sweden	Stockholm	4.0
-18-03-2020_03-37-48_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-39-49_AM	Sweden	Stockholm	2.0
-18-03-2020_03-39-50_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-41-51_AM	Sweden	Stockholm	4.0
-18-03-2020_03-44-18_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-46-19_AM	Sweden	Stockholm	5.0
-18-03-2020_03-46-20_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-48-22_AM	Sweden	Stockholm	4.0
-18-03-2020_03-48-23_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-50-24_AM	Sweden	Stockholm	5.0
-18-03-2020_03-50-25_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-52-26_AM	Sweden	Stockholm	4.0
-18-03-2020_03-52-27_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-54-28_AM	Sweden	Stockholm	3.0
-18-03-2020_03-54-30_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-56-31_AM	Sweden	Stockholm	5.0
-18-03-2020_03-56-32_AM	Sweden	Overtornea 	0.0
-18-03-2020_03-58-33_AM	Sweden	Stockholm	6.0
-18-03-2020_03-58-34_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-00-36_AM	Sweden	Stockholm	4.0
-18-03-2020_04-00-40_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-02-41_AM	Sweden	Stockholm	3.0
-18-03-2020_04-02-42_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-04-43_AM	Sweden	Stockholm	2.0
-18-03-2020_04-04-45_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-06-46_AM	Sweden	Stockholm	3.0
-18-03-2020_04-06-47_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-08-48_AM	Sweden	Stockholm	4.0
-18-03-2020_04-08-49_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-10-50_AM	Sweden	Stockholm	3.0
-18-03-2020_04-10-51_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-12-53_AM	Sweden	Stockholm	2.0
-18-03-2020_04-12-54_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-14-55_AM	Sweden	Stockholm	4.0
-18-03-2020_04-14-56_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-16-57_AM	Sweden	Stockholm	3.0
-18-03-2020_04-16-58_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-19-00_AM	Sweden	Stockholm	8.0
-18-03-2020_04-19-01_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-21-02_AM	Sweden	Stockholm	5.0
-18-03-2020_04-21-03_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-23-04_AM	Sweden	Stockholm	5.0
-18-03-2020_04-23-05_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-25-06_AM	Sweden	Stockholm	3.0
-18-03-2020_04-25-08_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-27-09_AM	Sweden	Stockholm	4.0
-18-03-2020_04-27-10_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-29-11_AM	Sweden	Stockholm	5.0
-18-03-2020_04-29-12_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-31-13_AM	Sweden	Stockholm	4.0
-18-03-2020_04-31-14_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-33-16_AM	Sweden	Stockholm	4.0
-18-03-2020_04-33-17_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-35-18_AM	Sweden	Stockholm	4.0
-18-03-2020_04-35-19_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-37-20_AM	Sweden	Stockholm	5.0
-18-03-2020_04-37-21_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-39-25_AM	Sweden	Stockholm	2.0
-18-03-2020_04-39-26_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-41-27_AM	Sweden	Stockholm	5.0
-18-03-2020_04-41-28_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-43-29_AM	Sweden	Stockholm	3.0
-18-03-2020_04-43-30_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-45-32_AM	Sweden	Stockholm	5.0
-18-03-2020_04-45-33_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-47-34_AM	Sweden	Stockholm	3.0
-18-03-2020_04-47-35_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-49-36_AM	Sweden	Stockholm	4.0
-18-03-2020_04-49-37_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-51-38_AM	Sweden	Stockholm	4.0
-18-03-2020_04-51-40_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-53-41_AM	Sweden	Stockholm	4.0
-18-03-2020_04-53-42_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-55-43_AM	Sweden	Stockholm	4.0
-18-03-2020_04-55-44_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-57-45_AM	Sweden	Stockholm	4.0
-18-03-2020_04-57-46_AM	Sweden	Overtornea 	0.0
-18-03-2020_04-59-48_AM	Sweden	Stockholm	4.0
-18-03-2020_04-59-49_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-01-50_AM	Sweden	Stockholm	3.0
-18-03-2020_05-01-51_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-03-52_AM	Sweden	Stockholm	3.0
-18-03-2020_05-03-53_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-05-54_AM	Sweden	Stockholm	2.0
-18-03-2020_05-05-56_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-07-57_AM	Sweden	Stockholm	4.0
-18-03-2020_05-07-58_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-09-59_AM	Sweden	Stockholm	3.0
-18-03-2020_05-10-00_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-12-01_AM	Sweden	Stockholm	7.0
-18-03-2020_05-12-02_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-14-04_AM	Sweden	Stockholm	5.0
-18-03-2020_05-14-05_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-16-06_AM	Sweden	Stockholm	4.0
-18-03-2020_05-16-07_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-18-08_AM	Sweden	Stockholm	3.0
-18-03-2020_05-18-09_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-20-12_AM	Sweden	Stockholm	3.0
-18-03-2020_05-20-14_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-22-15_AM	Sweden	Stockholm	2.0
-18-03-2020_05-22-16_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-24-17_AM	Sweden	Stockholm	1.0
-18-03-2020_05-24-18_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-26-20_AM	Sweden	Stockholm	2.0
-18-03-2020_05-26-21_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-28-22_AM	Sweden	Stockholm	2.0
-18-03-2020_05-28-23_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-30-24_AM	Sweden	Stockholm	2.0
-18-03-2020_05-30-25_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-32-27_AM	Sweden	Stockholm	2.0
-18-03-2020_05-32-28_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-34-29_AM	Sweden	Stockholm	2.0
-18-03-2020_05-34-30_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-36-31_AM	Sweden	Stockholm	5.0
-18-03-2020_05-36-32_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-38-33_AM	Sweden	Stockholm	2.0
-18-03-2020_05-38-35_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-40-36_AM	Sweden	Stockholm	2.0
-18-03-2020_05-40-37_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-42-38_AM	Sweden	Stockholm	2.0
-18-03-2020_05-42-39_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-44-40_AM	Sweden	Stockholm	2.0
-18-03-2020_05-44-41_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-46-43_AM	Sweden	Stockholm	1.0
-18-03-2020_05-46-44_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-48-45_AM	Sweden	Stockholm	0.0
-18-03-2020_05-48-46_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-50-47_AM	Sweden	Stockholm	0.0
-18-03-2020_05-50-48_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-52-49_AM	Sweden	Stockholm	1.0
-18-03-2020_05-52-50_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-54-52_AM	Sweden	Stockholm	5.0
-18-03-2020_05-54-53_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-56-54_AM	Sweden	Stockholm	3.0
-18-03-2020_05-56-55_AM	Sweden	Overtornea 	0.0
-18-03-2020_05-58-56_AM	Sweden	Stockholm	3.0
-18-03-2020_05-58-57_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-00-59_AM	Sweden	Stockholm	4.0
-18-03-2020_06-01-00_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-03-01_AM	Sweden	Stockholm	2.0
-18-03-2020_06-03-02_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-05-03_AM	Sweden	Stockholm	0.0
-18-03-2020_06-05-04_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-07-05_AM	Sweden	Stockholm	2.0
-18-03-2020_06-07-07_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-09-08_AM	Sweden	Stockholm	2.0
-18-03-2020_06-09-09_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-11-11_AM	Sweden	Stockholm	2.0
-18-03-2020_06-11-14_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-13-15_AM	Sweden	Stockholm	4.0
-18-03-2020_06-13-16_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-15-18_AM	Sweden	Stockholm	2.0
-18-03-2020_06-15-19_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-17-20_AM	Sweden	Stockholm	1.0
-18-03-2020_06-17-21_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-19-24_AM	Sweden	Stockholm	2.0
-18-03-2020_06-19-25_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-22-42_AM	Sweden	Stockholm	2.0
-18-03-2020_06-22-43_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-24-44_AM	Sweden	Stockholm	1.0
-18-03-2020_06-24-47_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-26-48_AM	Sweden	Stockholm	3.0
-18-03-2020_06-26-49_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-28-51_AM	Sweden	Stockholm	3.0
-18-03-2020_06-28-52_AM	Sweden	Overtornea 	1.0
-18-03-2020_06-30-53_AM	Sweden	Stockholm	1.0
-18-03-2020_06-30-54_AM	Sweden	Overtornea 	1.0
-18-03-2020_06-32-56_AM	Sweden	Stockholm	3.0
-18-03-2020_06-32-57_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-34-58_AM	Sweden	Stockholm	2.0
-18-03-2020_06-34-59_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-37-00_AM	Sweden	Stockholm	5.0
-18-03-2020_06-37-01_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-39-02_AM	Sweden	Stockholm	5.0
-18-03-2020_06-39-04_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-41-05_AM	Sweden	Stockholm	2.0
-18-03-2020_06-41-06_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-43-07_AM	Sweden	Stockholm	2.0
-18-03-2020_06-43-08_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-45-09_AM	Sweden	Stockholm	5.0
-18-03-2020_06-45-10_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-47-12_AM	Sweden	Stockholm	2.0
-18-03-2020_06-47-13_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-49-14_AM	Sweden	Stockholm	3.0
-18-03-2020_06-49-15_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-51-16_AM	Sweden	Stockholm	5.0
-18-03-2020_06-51-17_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-53-19_AM	Sweden	Stockholm	3.0
-18-03-2020_06-53-20_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-55-21_AM	Sweden	Stockholm	1.0
-18-03-2020_06-55-22_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-57-23_AM	Sweden	Stockholm	2.0
-18-03-2020_06-57-24_AM	Sweden	Overtornea 	0.0
-18-03-2020_06-59-25_AM	Sweden	Stockholm	3.0
-18-03-2020_06-59-27_AM	Sweden	Overtornea 	0.0
-18-03-2020_07-01-28_AM	Sweden	Stockholm	2.0
-18-03-2020_07-01-29_AM	Sweden	Overtornea 	0.0
-18-03-2020_07-03-30_AM	Sweden	Stockholm	3.0
-18-03-2020_07-03-31_AM	Sweden	Overtornea 	0.0
-18-03-2020_07-05-32_AM	Sweden	Stockholm	3.0
-18-03-2020_07-05-33_AM	Sweden	Overtornea 	0.0
-18-03-2020_07-07-35_AM	Sweden	Stockholm	3.0
-18-03-2020_07-07-36_AM	Sweden	Overtornea 	0.0
-18-03-2020_07-09-37_AM	Sweden	Stockholm	2.0
-18-03-2020_07-09-38_AM	Sweden	Overtornea 	0.0
-18-03-2020_07-11-39_AM	Sweden	Stockholm	5.0
-18-03-2020_07-11-40_AM	Sweden	Overtornea 	0.0
-18-03-2020_07-13-41_AM	Sweden	Stockholm	5.0
-18-03-2020_07-13-43_AM	Sweden	Overtornea 	1.0
-18-03-2020_07-15-44_AM	Sweden	Stockholm	7.0
-18-03-2020_07-15-45_AM	Sweden	Overtornea 	0.0
-18-03-2020_07-17-46_AM	Sweden	Stockholm	13.0
-18-03-2020_07-17-47_AM	Sweden	Overtornea 	0.0
-18-03-2020_07-19-48_AM	Sweden	Stockholm	7.0
-18-03-2020_07-19-49_AM	Sweden	Overtornea 	1.0
-18-03-2020_07-21-51_AM	Sweden	Stockholm	5.0
-18-03-2020_07-21-52_AM	Sweden	Overtornea 	0.0
-18-03-2020_07-23-53_AM	Sweden	Stockholm	2.0
-18-03-2020_07-23-54_AM	Sweden	Overtornea 	2.0
-18-03-2020_07-25-55_AM	Sweden	Stockholm	4.0
-18-03-2020_07-25-56_AM	Sweden	Overtornea 	2.0
-18-03-2020_07-27-57_AM	Sweden	Stockholm	4.0
-18-03-2020_07-27-59_AM	Sweden	Overtornea 	1.0
-18-03-2020_07-30-00_AM	Sweden	Stockholm	3.0
-18-03-2020_07-30-01_AM	Sweden	Overtornea 	1.0
-18-03-2020_07-32-02_AM	Sweden	Stockholm	8.0
-18-03-2020_07-32-03_AM	Sweden	Overtornea 	0.0
-18-03-2020_07-34-04_AM	Sweden	Stockholm	7.0
-18-03-2020_07-34-06_AM	Sweden	Overtornea 	2.0
-18-03-2020_07-36-07_AM	Sweden	Stockholm	7.0
-18-03-2020_07-36-08_AM	Sweden	Overtornea 	1.0
-18-03-2020_07-38-09_AM	Sweden	Stockholm	11.0
-18-03-2020_07-38-10_AM	Sweden	Overtornea 	0.0
-18-03-2020_07-40-11_AM	Sweden	Stockholm	5.0
-18-03-2020_07-40-12_AM	Sweden	Overtornea 	0.0
-18-03-2020_07-42-13_AM	Sweden	Stockholm	5.0
-18-03-2020_07-42-15_AM	Sweden	Overtornea 	0.0
-18-03-2020_07-44-16_AM	Sweden	Stockholm	7.0
-18-03-2020_07-44-17_AM	Sweden	Overtornea 	3.0
-18-03-2020_07-46-18_AM	Sweden	Stockholm	4.0
-18-03-2020_07-46-19_AM	Sweden	Overtornea 	0.0
-18-03-2020_07-48-20_AM	Sweden	Stockholm	5.0
-18-03-2020_07-48-21_AM	Sweden	Overtornea 	1.0
-18-03-2020_07-50-23_AM	Sweden	Stockholm	11.0
-18-03-2020_07-50-24_AM	Sweden	Overtornea 	0.0
-18-03-2020_07-52-25_AM	Sweden	Stockholm	6.0
-18-03-2020_07-52-26_AM	Sweden	Overtornea 	0.0
-18-03-2020_07-54-27_AM	Sweden	Stockholm	6.0
-18-03-2020_07-54-28_AM	Sweden	Overtornea 	0.0
-18-03-2020_07-56-29_AM	Sweden	Stockholm	4.0
-18-03-2020_07-56-31_AM	Sweden	Overtornea 	1.0
-18-03-2020_07-58-32_AM	Sweden	Stockholm	7.0
-18-03-2020_07-58-33_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-00-34_AM	Sweden	Stockholm	9.0
-18-03-2020_08-00-35_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-02-36_AM	Sweden	Stockholm	7.0
-18-03-2020_08-02-37_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-04-39_AM	Sweden	Stockholm	9.0
-18-03-2020_08-04-40_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-06-41_AM	Sweden	Stockholm	7.0
-18-03-2020_08-06-42_AM	Sweden	Overtornea 	1.0
-18-03-2020_08-08-43_AM	Sweden	Stockholm	7.0
-18-03-2020_08-08-44_AM	Sweden	Overtornea 	1.0
-18-03-2020_08-10-46_AM	Sweden	Stockholm	2.0
-18-03-2020_08-10-47_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-12-48_AM	Sweden	Stockholm	7.0
-18-03-2020_08-12-49_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-14-50_AM	Sweden	Stockholm	5.0
-18-03-2020_08-14-51_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-16-52_AM	Sweden	Stockholm	11.0
-18-03-2020_08-16-54_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-18-55_AM	Sweden	Stockholm	5.0
-18-03-2020_08-18-56_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-20-57_AM	Sweden	Stockholm	7.0
-18-03-2020_08-20-58_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-22-59_AM	Sweden	Stockholm	5.0
-18-03-2020_08-23-00_AM	Sweden	Overtornea 	1.0
-18-03-2020_08-25-02_AM	Sweden	Stockholm	7.0
-18-03-2020_08-25-03_AM	Sweden	Overtornea 	1.0
-18-03-2020_08-27-04_AM	Sweden	Stockholm	4.0
-18-03-2020_08-27-05_AM	Sweden	Overtornea 	1.0
-18-03-2020_08-29-06_AM	Sweden	Stockholm	4.0
-18-03-2020_08-29-07_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-31-09_AM	Sweden	Stockholm	5.0
-18-03-2020_08-31-10_AM	Sweden	Overtornea 	1.0
-18-03-2020_08-33-11_AM	Sweden	Stockholm	8.0
-18-03-2020_08-33-12_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-35-13_AM	Sweden	Stockholm	6.0
-18-03-2020_08-35-14_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-37-15_AM	Sweden	Stockholm	6.0
-18-03-2020_08-37-17_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-39-18_AM	Sweden	Stockholm	0.0
-18-03-2020_08-39-19_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-41-20_AM	Sweden	Stockholm	6.0
-18-03-2020_08-41-21_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-43-22_AM	Sweden	Stockholm	6.0
-18-03-2020_08-43-24_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-45-25_AM	Sweden	Stockholm	5.0
-18-03-2020_08-45-26_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-47-27_AM	Sweden	Stockholm	5.0
-18-03-2020_08-47-28_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-49-30_AM	Sweden	Stockholm	2.0
-18-03-2020_08-49-31_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-51-32_AM	Sweden	Stockholm	4.0
-18-03-2020_08-51-33_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-53-34_AM	Sweden	Stockholm	5.0
-18-03-2020_08-53-35_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-55-37_AM	Sweden	Stockholm	5.0
-18-03-2020_08-55-38_AM	Sweden	Overtornea 	1.0
-18-03-2020_08-57-39_AM	Sweden	Stockholm	10.0
-18-03-2020_08-57-40_AM	Sweden	Overtornea 	0.0
-18-03-2020_08-59-41_AM	Sweden	Stockholm	3.0
-18-03-2020_08-59-42_AM	Sweden	Overtornea 	0.0
-18-03-2020_09-01-44_AM	Sweden	Stockholm	2.0
-18-03-2020_09-01-45_AM	Sweden	Overtornea 	0.0
-18-03-2020_09-03-46_AM	Sweden	Stockholm	5.0
-18-03-2020_09-03-47_AM	Sweden	Overtornea 	0.0
-18-03-2020_09-05-49_AM	Sweden	Stockholm	2.0
-18-03-2020_09-05-50_AM	Sweden	Overtornea 	1.0
-18-03-2020_09-07-51_AM	Sweden	Stockholm	6.0
-18-03-2020_09-07-52_AM	Sweden	Overtornea 	0.0
-18-03-2020_09-09-53_AM	Sweden	Stockholm	4.0
-18-03-2020_09-09-54_AM	Sweden	Overtornea 	0.0
-18-03-2020_09-11-56_AM	Sweden	Stockholm	8.0
-18-03-2020_09-11-57_AM	Sweden	Overtornea 	0.0
-18-03-2020_09-13-58_AM	Sweden	Stockholm	3.0
-18-03-2020_09-13-59_AM	Sweden	Overtornea 	0.0
-18-03-2020_09-16-00_AM	Sweden	Stockholm	1.0
-18-03-2020_09-16-02_AM	Sweden	Overtornea 	2.0
-18-03-2020_09-18-03_AM	Sweden	Stockholm	6.0
-18-03-2020_09-18-04_AM	Sweden	Overtornea 	0.0
-18-03-2020_09-20-05_AM	Sweden	Stockholm	1.0
-18-03-2020_09-20-06_AM	Sweden	Overtornea 	1.0
-18-03-2020_09-22-07_AM	Sweden	Stockholm	6.0
-18-03-2020_09-22-09_AM	Sweden	Overtornea 	0.0
-18-03-2020_09-24-10_AM	Sweden	Stockholm	4.0
-18-03-2020_09-24-11_AM	Sweden	Overtornea 	0.0
-18-03-2020_09-26-12_AM	Sweden	Stockholm	2.0
-18-03-2020_09-26-13_AM	Sweden	Overtornea 	1.0
-18-03-2020_09-28-14_AM	Sweden	Stockholm	1.0
-18-03-2020_09-28-16_AM	Sweden	Overtornea 	0.0
-18-03-2020_09-30-17_AM	Sweden	Stockholm	1.0
-18-03-2020_09-30-18_AM	Sweden	Overtornea 	1.0
-18-03-2020_09-32-19_AM	Sweden	Stockholm	3.0
-18-03-2020_09-32-20_AM	Sweden	Overtornea 	0.0
-18-03-2020_09-34-22_AM	Sweden	Stockholm	1.0
-18-03-2020_09-34-23_AM	Sweden	Overtornea 	0.0
-18-03-2020_09-36-24_AM	Sweden	Stockholm	1.0
-18-03-2020_09-36-25_AM	Sweden	Overtornea 	0.0
-18-03-2020_09-38-26_AM	Sweden	Stockholm	1.0
-18-03-2020_09-38-27_AM	Sweden	Overtornea 	0.0
-18-03-2020_09-40-29_AM	Sweden	Stockholm	2.0
-18-03-2020_09-40-30_AM	Sweden	Overtornea 	0.0
-18-03-2020_09-42-31_AM	Sweden	Stockholm	3.0
-18-03-2020_09-42-32_AM	Sweden	Overtornea 	3.0
-18-03-2020_09-44-33_AM	Sweden	Stockholm	6.0
-18-03-2020_09-44-34_AM	Sweden	Overtornea 	2.0
-18-03-2020_09-46-36_AM	Sweden	Stockholm	6.0
-18-03-2020_09-46-37_AM	Sweden	Overtornea 	2.0
-18-03-2020_09-48-38_AM	Sweden	Stockholm	0.0
-18-03-2020_09-48-39_AM	Sweden	Overtornea 	1.0
-18-03-2020_09-50-40_AM	Sweden	Stockholm	3.0
-18-03-2020_09-50-41_AM	Sweden	Overtornea 	0.0
-18-03-2020_09-52-43_AM	Sweden	Stockholm	1.0
-18-03-2020_09-52-44_AM	Sweden	Overtornea 	0.0
-18-03-2020_09-54-45_AM	Sweden	Stockholm	0.0
-18-03-2020_09-54-46_AM	Sweden	Overtornea 	0.0
-18-03-2020_09-56-47_AM	Sweden	Stockholm	2.0
-18-03-2020_09-56-48_AM	Sweden	Overtornea 	0.0
-18-03-2020_09-58-50_AM	Sweden	Stockholm	0.0
-18-03-2020_09-58-51_AM	Sweden	Overtornea 	2.0
-18-03-2020_10-00-52_AM	Sweden	Stockholm	5.0
-18-03-2020_10-00-53_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-02-54_AM	Sweden	Stockholm	4.0
-18-03-2020_10-02-55_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-04-57_AM	Sweden	Stockholm	1.0
-18-03-2020_10-04-58_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-06-59_AM	Sweden	Stockholm	5.0
-18-03-2020_10-07-00_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-09-01_AM	Sweden	Stockholm	0.0
-18-03-2020_10-09-03_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-11-04_AM	Sweden	Stockholm	2.0
-18-03-2020_10-11-05_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-13-06_AM	Sweden	Stockholm	3.0
-18-03-2020_10-13-07_AM	Sweden	Overtornea 	1.0
-18-03-2020_10-15-08_AM	Sweden	Stockholm	3.0
-18-03-2020_10-15-10_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-17-11_AM	Sweden	Stockholm	2.0
-18-03-2020_10-17-12_AM	Sweden	Overtornea 	1.0
-18-03-2020_10-19-13_AM	Sweden	Stockholm	3.0
-18-03-2020_10-19-14_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-21-15_AM	Sweden	Stockholm	1.0
-18-03-2020_10-21-17_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-23-18_AM	Sweden	Stockholm	4.0
-18-03-2020_10-23-19_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-25-20_AM	Sweden	Stockholm	5.0
-18-03-2020_10-25-21_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-27-22_AM	Sweden	Stockholm	4.0
-18-03-2020_10-27-24_AM	Sweden	Overtornea 	2.0
-18-03-2020_10-29-25_AM	Sweden	Stockholm	5.0
-18-03-2020_10-29-26_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-31-27_AM	Sweden	Stockholm	10.0
-18-03-2020_10-31-28_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-33-30_AM	Sweden	Stockholm	2.0
-18-03-2020_10-33-31_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-35-32_AM	Sweden	Stockholm	1.0
-18-03-2020_10-35-33_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-37-34_AM	Sweden	Stockholm	1.0
-18-03-2020_10-37-36_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-39-37_AM	Sweden	Stockholm	2.0
-18-03-2020_10-39-38_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-41-39_AM	Sweden	Stockholm	5.0
-18-03-2020_10-41-40_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-43-41_AM	Sweden	Stockholm	5.0
-18-03-2020_10-43-43_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-45-44_AM	Sweden	Stockholm	3.0
-18-03-2020_10-45-45_AM	Sweden	Overtornea 	3.0
-18-03-2020_10-47-46_AM	Sweden	Stockholm	5.0
-18-03-2020_10-47-47_AM	Sweden	Overtornea 	1.0
-18-03-2020_10-49-48_AM	Sweden	Stockholm	3.0
-18-03-2020_10-49-50_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-51-51_AM	Sweden	Stockholm	12.0
-18-03-2020_10-51-56_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-53-57_AM	Sweden	Stockholm	4.0
-18-03-2020_10-53-58_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-55-59_AM	Sweden	Stockholm	4.0
-18-03-2020_10-56-00_AM	Sweden	Overtornea 	0.0
-18-03-2020_10-58-02_AM	Sweden	Stockholm	1.0
-18-03-2020_10-58-03_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-00-04_AM	Sweden	Stockholm	8.0
-18-03-2020_11-00-05_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-02-06_AM	Sweden	Stockholm	5.0
-18-03-2020_11-02-07_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-04-09_AM	Sweden	Stockholm	7.0
-18-03-2020_11-04-10_AM	Sweden	Overtornea 	2.0
-18-03-2020_11-06-11_AM	Sweden	Stockholm	7.0
-18-03-2020_11-06-12_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-08-13_AM	Sweden	Stockholm	7.0
-18-03-2020_11-08-14_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-10-16_AM	Sweden	Stockholm	5.0
-18-03-2020_11-10-17_AM	Sweden	Overtornea 	1.0
-18-03-2020_11-12-18_AM	Sweden	Stockholm	6.0
-18-03-2020_11-12-19_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-14-20_AM	Sweden	Stockholm	8.0
-18-03-2020_11-14-21_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-16-22_AM	Sweden	Stockholm	3.0
-18-03-2020_11-16-24_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-18-28_AM	Sweden	Stockholm	3.0
-18-03-2020_11-18-29_AM	Sweden	Overtornea 	1.0
-18-03-2020_11-20-31_AM	Sweden	Stockholm	3.0
-18-03-2020_11-20-32_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-22-33_AM	Sweden	Stockholm	11.0
-18-03-2020_11-22-34_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-24-35_AM	Sweden	Stockholm	9.0
-18-03-2020_11-24-36_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-26-38_AM	Sweden	Stockholm	5.0
-18-03-2020_11-26-39_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-28-40_AM	Sweden	Stockholm	5.0
-18-03-2020_11-28-41_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-30-42_AM	Sweden	Stockholm	5.0
-18-03-2020_11-30-43_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-32-44_AM	Sweden	Stockholm	6.0
-18-03-2020_11-32-46_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-34-47_AM	Sweden	Stockholm	6.0
-18-03-2020_11-34-48_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-36-49_AM	Sweden	Stockholm	10.0
-18-03-2020_11-36-50_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-38-54_AM	Sweden	Stockholm	5.0
-18-03-2020_11-38-55_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-40-57_AM	Sweden	Stockholm	5.0
-18-03-2020_11-40-58_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-42-59_AM	Sweden	Stockholm	10.0
-18-03-2020_11-43-00_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-45-01_AM	Sweden	Stockholm	6.0
-18-03-2020_11-45-03_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-47-04_AM	Sweden	Stockholm	5.0
-18-03-2020_11-47-05_AM	Sweden	Overtornea 	1.0
-18-03-2020_11-49-06_AM	Sweden	Stockholm	4.0
-18-03-2020_11-49-07_AM	Sweden	Overtornea 	3.0
-18-03-2020_11-51-09_AM	Sweden	Stockholm	10.0
-18-03-2020_11-51-10_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-53-11_AM	Sweden	Stockholm	5.0
-18-03-2020_11-53-12_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-55-13_AM	Sweden	Stockholm	15.0
-18-03-2020_11-55-14_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-57-15_AM	Sweden	Stockholm	5.0
-18-03-2020_11-57-17_AM	Sweden	Overtornea 	0.0
-18-03-2020_11-59-18_AM	Sweden	Stockholm	5.0
-18-03-2020_11-59-19_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-01-20_PM	Sweden	Stockholm	6.0
-18-03-2020_12-01-21_PM	Sweden	Overtornea 	0.0
-18-03-2020_12-02-35_AM	Sweden	Stockholm	1.0
-18-03-2020_12-02-36_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-04-51_AM	Sweden	Stockholm	5.0
-18-03-2020_12-04-52_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-06-53_AM	Sweden	Stockholm	2.0
-18-03-2020_12-06-54_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-08-56_AM	Sweden	Stockholm	3.0
-18-03-2020_12-08-57_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-10-58_AM	Sweden	Stockholm	2.0
-18-03-2020_12-10-59_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-13-00_AM	Sweden	Stockholm	1.0
-18-03-2020_12-13-01_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-15-02_AM	Sweden	Stockholm	1.0
-18-03-2020_12-15-04_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-17-05_AM	Sweden	Stockholm	1.0
-18-03-2020_12-17-06_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-19-07_AM	Sweden	Stockholm	0.0
-18-03-2020_12-19-08_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-21-09_AM	Sweden	Stockholm	1.0
-18-03-2020_12-21-10_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-23-12_AM	Sweden	Stockholm	2.0
-18-03-2020_12-23-13_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-25-14_AM	Sweden	Stockholm	1.0
-18-03-2020_12-25-15_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-27-16_AM	Sweden	Stockholm	2.0
-18-03-2020_12-27-17_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-29-18_AM	Sweden	Stockholm	4.0
-18-03-2020_12-29-20_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-31-21_AM	Sweden	Stockholm	2.0
-18-03-2020_12-31-22_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-33-23_AM	Sweden	Stockholm	1.0
-18-03-2020_12-33-24_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-35-25_AM	Sweden	Stockholm	1.0
-18-03-2020_12-35-26_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-37-28_AM	Sweden	Stockholm	4.0
-18-03-2020_12-37-29_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-39-30_AM	Sweden	Stockholm	3.0
-18-03-2020_12-39-31_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-41-32_AM	Sweden	Stockholm	3.0
-18-03-2020_12-41-33_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-43-35_AM	Sweden	Stockholm	1.0
-18-03-2020_12-43-36_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-45-37_AM	Sweden	Stockholm	2.0
-18-03-2020_12-45-38_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-47-39_AM	Sweden	Stockholm	3.0
-18-03-2020_12-47-40_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-49-42_AM	Sweden	Stockholm	3.0
-18-03-2020_12-49-43_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-51-44_AM	Sweden	Stockholm	2.0
-18-03-2020_12-51-45_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-53-46_AM	Sweden	Stockholm	1.0
-18-03-2020_12-53-47_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-55-48_AM	Sweden	Stockholm	4.0
-18-03-2020_12-55-50_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-57-51_AM	Sweden	Stockholm	1.0
-18-03-2020_12-57-52_AM	Sweden	Overtornea 	0.0
-18-03-2020_12-59-53_AM	Sweden	Stockholm	4.0
-18-03-2020_12-59-54_AM	Sweden	Overtornea 	0.0
-19-03-2020_02-38-02_PM	Sweden	Stockholm	2.0
-19-03-2020_02-38-04_PM	Sweden	Overtornea 	0.0
-19-03-2020_02-39-32_PM	Sweden	Stockholm	2.0
-19-03-2020_02-39-33_PM	Sweden	Overtornea 	1.0
-19-03-2020_02-41-34_PM	Sweden	Stockholm	4.0
-19-03-2020_02-41-35_PM	Sweden	Overtornea 	1.0
-19-03-2020_02-43-36_PM	Sweden	Stockholm	2.0
-19-03-2020_02-43-38_PM	Sweden	Overtornea 	1.0
-19-03-2020_02-45-28_PM	Sweden	Stockholm	4.0
-19-03-2020_02-45-29_PM	Sweden	Overtornea 	0.0
-19-03-2020_05-19-41_PM	Sweden	Stockholm	1.0
-19-03-2020_05-19-42_PM	Sweden	Overtornea 	0.0
-19-03-2020_05-27-33_PM	Sweden	Stockholm	0.0
-19-03-2020_05-27-34_PM	Sweden	Overtornea 	0.0
-19-03-2020_05-35-01_PM	Sweden	Stockholm	1.0
-19-03-2020_05-35-02_PM	Sweden	Overtornea 	0.0
-19-03-2020_05-42-24_PM	Sweden	Stockholm	10.0
-19-03-2020_05-42-25_PM	Sweden	Overtornea 	1.0
-19-03-2020_05-42-36_PM	Sweden	Stockholm	16.0
-19-03-2020_05-42-38_PM	Sweden	Overtornea 	1.0
-19-03-2020_05-42-49_PM	Sweden	Stockholm	1.0
-19-03-2020_05-42-50_PM	Sweden	Overtornea 	0.0
-19-03-2020_05-46-28_PM	Sweden	Stockholm	0.0
-19-03-2020_05-46-47_PM	Sweden	Overtornea 	0.0
-19-03-2020_05-47-01_PM	Sweden	Stockholm	0.0
-19-03-2020_05-47-02_PM	Sweden	Overtornea 	0.0
-19-03-2020_05-50-53_PM	Sweden	Stockholm	1.0
-19-03-2020_05-50-54_PM	Sweden	Overtornea 	1.0
-19-03-2020_05-58-33_PM	Sweden	Stockholm	2.0
-19-03-2020_05-58-34_PM	Sweden	Overtornea 	0.0
-19-03-2020_06-07-13_PM	Sweden	Stockholm	1.0
-19-03-2020_06-07-15_PM	Sweden	Overtornea 	0.0
-19-03-2020_06-14-57_PM	Sweden	Stockholm	0.0
-19-03-2020_06-14-58_PM	Sweden	Overtornea 	0.0
-19-03-2020_06-16-07_PM	Sweden	Stockholm	1.0
-19-03-2020_06-16-08_PM	Sweden	Overtornea 	0.0
-19-03-2020_06-23-08_PM	Sweden	Stockholm	1.0
-19-03-2020_06-23-09_PM	Sweden	Overtornea 	0.0
-19-03-2020_06-29-38_PM	Sweden	Stockholm	0.0
-19-03-2020_06-29-38_PM	Sweden	Overtornea 	0.0
-19-03-2020_06-29-51_PM	Sweden	Overtornea 	0.0
-19-03-2020_06-29-51_PM	Sweden	Stockholm	1.0
-19-03-2020_06-31-12_PM	Sweden	Stockholm	1.0
-19-03-2020_06-31-13_PM	Sweden	Overtornea 	0.0
-19-03-2020_06-38-59_PM	Sweden	Stockholm	0.0
-19-03-2020_06-38-59_PM	Sweden	Overtornea 	0.0
-19-03-2020_06-47-14_PM	Sweden	Stockholm	1.0
-19-03-2020_06-47-15_PM	Sweden	Overtornea 	0.0
-19-03-2020_06-54-50_PM	Sweden	Stockholm	1.0
-19-03-2020_06-54-51_PM	Sweden	Overtornea 	0.0
-19-03-2020_07-03-42_PM	Sweden	Stockholm	1.0
-19-03-2020_07-03-44_PM	Sweden	Overtornea 	0.0
-19-03-2020_07-11-10_PM	Sweden	Stockholm	1.0
-19-03-2020_07-11-11_PM	Sweden	Overtornea 	0.0
-19-03-2020_07-19-37_PM	Sweden	Stockholm	0.0
-19-03-2020_07-19-38_PM	Sweden	Overtornea 	0.0
-19-03-2020_07-26-45_PM	Sweden	Stockholm	1.0
-19-03-2020_07-26-50_PM	Sweden	Overtornea 	0.0
-19-03-2020_07-35-00_PM	Sweden	Stockholm	1.0
-19-03-2020_07-35-01_PM	Sweden	Overtornea 	0.0
-19-03-2020_07-42-27_PM	Sweden	Stockholm	1.0
-19-03-2020_07-42-28_PM	Sweden	Overtornea 	0.0
-19-03-2020_07-50-15_PM	Sweden	Stockholm	1.0
-19-03-2020_07-50-16_PM	Sweden	Overtornea 	0.0
-19-03-2020_07-58-08_PM	Sweden	Stockholm	1.0
-19-03-2020_07-58-09_PM	Sweden	Overtornea 	0.0
-19-03-2020_08-01-31_PM	Sweden	Stockholm	0.0
-19-03-2020_08-01-32_PM	Sweden	Overtornea 	0.0
-19-03-2020_08-07-38_PM	Sweden	Stockholm	1.0
-19-03-2020_08-07-39_PM	Sweden	Overtornea 	0.0
-19-03-2020_08-15-10_PM	Sweden	Stockholm	1.0
-19-03-2020_08-15-11_PM	Sweden	Overtornea 	0.0
-19-03-2020_08-23-12_PM	Sweden	Stockholm	1.0
-19-03-2020_08-23-13_PM	Sweden	Overtornea 	0.0
-19-03-2020_08-29-10_PM	Sweden	Stockholm	0.0
-19-03-2020_08-29-11_PM	Sweden	Stockholm	0.0
-19-03-2020_08-29-11_PM	Sweden	Stockholm	0.0
-19-03-2020_08-29-13_PM	Sweden	Stockholm	0.0
-19-03-2020_08-29-14_PM	Sweden	Overtornea 	0.0
-19-03-2020_08-29-14_PM	Sweden	Goteborg	0.0
-19-03-2020_08-30-50_PM	Sweden	Stockholm	1.0
-19-03-2020_08-30-51_PM	Sweden	Stockholm	0.0
-19-03-2020_08-30-52_PM	Sweden	Stockholm	0.0
-19-03-2020_08-30-53_PM	Sweden	Stockholm	0.0
-19-03-2020_08-30-54_PM	Sweden	Goteborg	0.0
-19-03-2020_08-30-55_PM	Sweden	Overtornea 	0.0
-19-03-2020_08-38-41_PM	Sweden	Stockholm	1.0
-19-03-2020_08-38-42_PM	Sweden	Stockholm	0.0
-19-03-2020_08-38-43_PM	Sweden	Stockholm	0.0
-19-03-2020_08-38-44_PM	Sweden	Stockholm	0.0
-19-03-2020_08-38-45_PM	Sweden	Goteborg	0.0
-19-03-2020_08-38-46_PM	Sweden	Overtornea 	0.0
-19-03-2020_08-46-44_PM	Sweden	Stockholm	1.0
-19-03-2020_08-46-45_PM	Sweden	Stockholm	0.0
-19-03-2020_08-46-46_PM	Sweden	Stockholm	0.0
-19-03-2020_08-46-47_PM	Sweden	Stockholm	0.0
-19-03-2020_08-46-48_PM	Sweden	Goteborg	0.0
-19-03-2020_08-46-49_PM	Sweden	Overtornea 	0.0
-<<<<<<< HEAD	0	0	0.0
-=======	0	0	0.0
->>>>>>> 022f6893b1784ce9fa6a92cbc161519d583d0a16	0	0	0.0
+	datetime	city	country	nb_detected
+0	18-03-2020_01-01-55_AM	Sweden	Stockholm	5.0
+1	18-03-2020_01-01-56_AM	Sweden	Overtornea 	0.0
+2	18-03-2020_01-03-58_AM	Sweden	Stockholm	1.0
+3	18-03-2020_01-03-59_AM	Sweden	Overtornea 	0.0
+4	18-03-2020_01-06-00_AM	Sweden	Stockholm	1.0
+5	18-03-2020_01-06-01_AM	Sweden	Overtornea 	0.0
+6	18-03-2020_01-08-02_AM	Sweden	Stockholm	3.0
+7	18-03-2020_01-08-03_AM	Sweden	Overtornea 	0.0
+8	18-03-2020_01-10-04_AM	Sweden	Stockholm	2.0
+9	18-03-2020_01-10-06_AM	Sweden	Overtornea 	0.0
+10	18-03-2020_01-12-07_AM	Sweden	Stockholm	4.0
+11	18-03-2020_01-12-08_AM	Sweden	Overtornea 	0.0
+12	18-03-2020_01-14-09_AM	Sweden	Stockholm	2.0
+13	18-03-2020_01-14-10_AM	Sweden	Overtornea 	0.0
+14	18-03-2020_01-16-11_AM	Sweden	Stockholm	3.0
+15	18-03-2020_01-16-12_AM	Sweden	Overtornea 	0.0
+16	18-03-2020_01-18-14_AM	Sweden	Stockholm	1.0
+17	18-03-2020_01-18-15_AM	Sweden	Overtornea 	0.0
+18	18-03-2020_01-20-16_AM	Sweden	Stockholm	2.0
+19	18-03-2020_01-20-17_AM	Sweden	Overtornea 	0.0
+20	18-03-2020_01-22-18_AM	Sweden	Stockholm	2.0
+21	18-03-2020_01-22-19_AM	Sweden	Overtornea 	0.0
+22	18-03-2020_01-24-21_AM	Sweden	Stockholm	2.0
+23	18-03-2020_01-24-22_AM	Sweden	Overtornea 	0.0
+24	18-03-2020_01-26-23_AM	Sweden	Stockholm	1.0
+25	18-03-2020_01-26-24_AM	Sweden	Overtornea 	0.0
+26	18-03-2020_01-28-25_AM	Sweden	Stockholm	8.0
+27	18-03-2020_01-28-26_AM	Sweden	Overtornea 	0.0
+28	18-03-2020_01-30-27_AM	Sweden	Stockholm	1.0
+29	18-03-2020_01-30-29_AM	Sweden	Overtornea 	0.0
+30	18-03-2020_01-32-30_AM	Sweden	Stockholm	1.0
+31	18-03-2020_01-32-31_AM	Sweden	Overtornea 	0.0
+32	18-03-2020_01-34-32_AM	Sweden	Stockholm	3.0
+33	18-03-2020_01-34-33_AM	Sweden	Overtornea 	0.0
+34	18-03-2020_01-36-34_AM	Sweden	Stockholm	1.0
+35	18-03-2020_01-36-35_AM	Sweden	Overtornea 	0.0
+36	18-03-2020_01-38-37_AM	Sweden	Stockholm	0.0
+37	18-03-2020_01-38-38_AM	Sweden	Overtornea 	0.0
+38	18-03-2020_01-40-39_AM	Sweden	Stockholm	1.0
+39	18-03-2020_01-40-40_AM	Sweden	Overtornea 	0.0
+40	18-03-2020_01-42-41_AM	Sweden	Stockholm	1.0
+41	18-03-2020_01-42-42_AM	Sweden	Overtornea 	0.0
+42	18-03-2020_01-44-44_AM	Sweden	Stockholm	3.0
+43	18-03-2020_01-44-45_AM	Sweden	Overtornea 	0.0
+44	18-03-2020_01-46-46_AM	Sweden	Stockholm	5.0
+45	18-03-2020_01-46-47_AM	Sweden	Overtornea 	0.0
+46	18-03-2020_01-48-48_AM	Sweden	Stockholm	1.0
+47	18-03-2020_01-48-49_AM	Sweden	Overtornea 	0.0
+48	18-03-2020_01-50-51_AM	Sweden	Stockholm	5.0
+49	18-03-2020_01-50-52_AM	Sweden	Overtornea 	0.0
+50	18-03-2020_01-52-53_AM	Sweden	Stockholm	1.0
+51	18-03-2020_01-52-54_AM	Sweden	Overtornea 	0.0
+52	18-03-2020_01-54-55_AM	Sweden	Stockholm	3.0
+53	18-03-2020_01-54-56_AM	Sweden	Overtornea 	0.0
+54	18-03-2020_01-56-57_AM	Sweden	Stockholm	3.0
+55	18-03-2020_01-56-59_AM	Sweden	Overtornea 	0.0
+56	18-03-2020_01-59-00_AM	Sweden	Stockholm	3.0
+57	18-03-2020_01-59-01_AM	Sweden	Overtornea 	0.0
+58	18-03-2020_02-01-02_AM	Sweden	Stockholm	4.0
+59	18-03-2020_02-01-03_AM	Sweden	Overtornea 	0.0
+60	18-03-2020_02-03-04_AM	Sweden	Stockholm	6.0
+61	18-03-2020_02-03-05_AM	Sweden	Overtornea 	0.0
+62	18-03-2020_02-05-07_AM	Sweden	Stockholm	3.0
+63	18-03-2020_02-05-08_AM	Sweden	Overtornea 	0.0
+64	18-03-2020_02-07-09_AM	Sweden	Stockholm	4.0
+65	18-03-2020_02-07-10_AM	Sweden	Overtornea 	0.0
+66	18-03-2020_02-09-11_AM	Sweden	Stockholm	2.0
+67	18-03-2020_02-09-12_AM	Sweden	Overtornea 	0.0
+68	18-03-2020_02-11-13_AM	Sweden	Stockholm	5.0
+69	18-03-2020_02-11-15_AM	Sweden	Overtornea 	0.0
+70	18-03-2020_02-13-16_AM	Sweden	Stockholm	3.0
+71	18-03-2020_02-13-17_AM	Sweden	Overtornea 	0.0
+72	18-03-2020_02-15-18_AM	Sweden	Stockholm	3.0
+73	18-03-2020_02-15-19_AM	Sweden	Overtornea 	0.0
+74	18-03-2020_02-17-20_AM	Sweden	Stockholm	2.0
+75	18-03-2020_02-17-22_AM	Sweden	Overtornea 	0.0
+76	18-03-2020_02-19-23_AM	Sweden	Stockholm	5.0
+77	18-03-2020_02-19-24_AM	Sweden	Overtornea 	0.0
+78	18-03-2020_02-21-25_AM	Sweden	Stockholm	4.0
+79	18-03-2020_02-21-26_AM	Sweden	Overtornea 	0.0
+80	18-03-2020_02-23-27_AM	Sweden	Stockholm	1.0
+81	18-03-2020_02-23-28_AM	Sweden	Overtornea 	0.0
+82	18-03-2020_02-25-30_AM	Sweden	Stockholm	2.0
+83	18-03-2020_02-25-31_AM	Sweden	Overtornea 	0.0
+84	18-03-2020_02-27-32_AM	Sweden	Stockholm	5.0
+85	18-03-2020_02-27-33_AM	Sweden	Overtornea 	0.0
+86	18-03-2020_02-29-34_AM	Sweden	Stockholm	6.0
+87	18-03-2020_02-29-35_AM	Sweden	Overtornea 	0.0
+88	18-03-2020_02-31-37_AM	Sweden	Stockholm	4.0
+89	18-03-2020_02-31-38_AM	Sweden	Overtornea 	0.0
+90	18-03-2020_02-33-39_AM	Sweden	Stockholm	5.0
+91	18-03-2020_02-33-40_AM	Sweden	Overtornea 	0.0
+92	18-03-2020_02-35-41_AM	Sweden	Stockholm	4.0
+93	18-03-2020_02-35-43_AM	Sweden	Overtornea 	0.0
+94	18-03-2020_02-37-44_AM	Sweden	Stockholm	4.0
+95	18-03-2020_02-37-45_AM	Sweden	Overtornea 	0.0
+96	18-03-2020_02-39-46_AM	Sweden	Stockholm	3.0
+97	18-03-2020_02-39-47_AM	Sweden	Overtornea 	0.0
+98	18-03-2020_02-41-48_AM	Sweden	Stockholm	4.0
+99	18-03-2020_02-41-50_AM	Sweden	Overtornea 	0.0
+100	18-03-2020_02-43-52_AM	Sweden	Stockholm	3.0
+101	18-03-2020_02-43-53_AM	Sweden	Overtornea 	0.0
+102	18-03-2020_02-45-54_AM	Sweden	Stockholm	3.0
+103	18-03-2020_02-45-55_AM	Sweden	Overtornea 	0.0
+104	18-03-2020_02-47-57_AM	Sweden	Stockholm	3.0
+105	18-03-2020_02-47-58_AM	Sweden	Overtornea 	0.0
+106	18-03-2020_02-49-59_AM	Sweden	Stockholm	3.0
+107	18-03-2020_02-50-00_AM	Sweden	Overtornea 	0.0
+108	18-03-2020_02-52-01_AM	Sweden	Stockholm	1.0
+109	18-03-2020_02-52-02_AM	Sweden	Overtornea 	0.0
+110	18-03-2020_02-54-03_AM	Sweden	Stockholm	3.0
+111	18-03-2020_02-54-05_AM	Sweden	Overtornea 	0.0
+112	18-03-2020_02-56-06_AM	Sweden	Stockholm	3.0
+113	18-03-2020_02-56-07_AM	Sweden	Overtornea 	0.0
+114	18-03-2020_02-58-08_AM	Sweden	Stockholm	5.0
+115	18-03-2020_02-58-09_AM	Sweden	Overtornea 	0.0
+116	18-03-2020_03-00-56_AM	Sweden	Stockholm	4.0
+117	18-03-2020_03-01-29_AM	Sweden	Overtornea 	0.0
+118	18-03-2020_03-03-30_AM	Sweden	Stockholm	3.0
+119	18-03-2020_03-03-31_AM	Sweden	Overtornea 	0.0
+120	18-03-2020_03-05-32_AM	Sweden	Stockholm	3.0
+121	18-03-2020_03-05-33_AM	Sweden	Overtornea 	0.0
+122	18-03-2020_03-07-35_AM	Sweden	Stockholm	3.0
+123	18-03-2020_03-07-36_AM	Sweden	Overtornea 	0.0
+124	18-03-2020_03-09-37_AM	Sweden	Stockholm	3.0
+125	18-03-2020_03-09-38_AM	Sweden	Overtornea 	0.0
+126	18-03-2020_03-11-39_AM	Sweden	Stockholm	1.0
+127	18-03-2020_03-11-40_AM	Sweden	Overtornea 	0.0
+128	18-03-2020_03-13-41_AM	Sweden	Stockholm	4.0
+129	18-03-2020_03-13-43_AM	Sweden	Overtornea 	0.0
+130	18-03-2020_03-15-44_AM	Sweden	Stockholm	4.0
+131	18-03-2020_03-15-45_AM	Sweden	Overtornea 	0.0
+132	18-03-2020_03-17-46_AM	Sweden	Stockholm	4.0
+133	18-03-2020_03-17-47_AM	Sweden	Overtornea 	0.0
+134	18-03-2020_03-21-08_AM	Sweden	Stockholm	5.0
+135	18-03-2020_03-21-11_AM	Sweden	Overtornea 	0.0
+136	18-03-2020_03-23-12_AM	Sweden	Stockholm	3.0
+137	18-03-2020_03-23-13_AM	Sweden	Overtornea 	0.0
+138	18-03-2020_03-25-14_AM	Sweden	Stockholm	4.0
+139	18-03-2020_03-25-15_AM	Sweden	Overtornea 	0.0
+140	18-03-2020_03-27-17_AM	Sweden	Stockholm	3.0
+141	18-03-2020_03-27-18_AM	Sweden	Overtornea 	0.0
+142	18-03-2020_03-29-19_AM	Sweden	Stockholm	4.0
+143	18-03-2020_03-29-20_AM	Sweden	Overtornea 	0.0
+144	18-03-2020_03-31-21_AM	Sweden	Stockholm	5.0
+145	18-03-2020_03-31-22_AM	Sweden	Overtornea 	0.0
+146	18-03-2020_03-33-39_AM	Sweden	Stockholm	6.0
+147	18-03-2020_03-33-43_AM	Sweden	Overtornea 	0.0
+148	18-03-2020_03-35-44_AM	Sweden	Stockholm	4.0
+149	18-03-2020_03-35-45_AM	Sweden	Overtornea 	0.0
+150	18-03-2020_03-37-47_AM	Sweden	Stockholm	4.0
+151	18-03-2020_03-37-48_AM	Sweden	Overtornea 	0.0
+152	18-03-2020_03-39-49_AM	Sweden	Stockholm	2.0
+153	18-03-2020_03-39-50_AM	Sweden	Overtornea 	0.0
+154	18-03-2020_03-41-51_AM	Sweden	Stockholm	4.0
+155	18-03-2020_03-44-18_AM	Sweden	Overtornea 	0.0
+156	18-03-2020_03-46-19_AM	Sweden	Stockholm	5.0
+157	18-03-2020_03-46-20_AM	Sweden	Overtornea 	0.0
+158	18-03-2020_03-48-22_AM	Sweden	Stockholm	4.0
+159	18-03-2020_03-48-23_AM	Sweden	Overtornea 	0.0
+160	18-03-2020_03-50-24_AM	Sweden	Stockholm	5.0
+161	18-03-2020_03-50-25_AM	Sweden	Overtornea 	0.0
+162	18-03-2020_03-52-26_AM	Sweden	Stockholm	4.0
+163	18-03-2020_03-52-27_AM	Sweden	Overtornea 	0.0
+164	18-03-2020_03-54-28_AM	Sweden	Stockholm	3.0
+165	18-03-2020_03-54-30_AM	Sweden	Overtornea 	0.0
+166	18-03-2020_03-56-31_AM	Sweden	Stockholm	5.0
+167	18-03-2020_03-56-32_AM	Sweden	Overtornea 	0.0
+168	18-03-2020_03-58-33_AM	Sweden	Stockholm	6.0
+169	18-03-2020_03-58-34_AM	Sweden	Overtornea 	0.0
+170	18-03-2020_04-00-36_AM	Sweden	Stockholm	4.0
+171	18-03-2020_04-00-40_AM	Sweden	Overtornea 	0.0
+172	18-03-2020_04-02-41_AM	Sweden	Stockholm	3.0
+173	18-03-2020_04-02-42_AM	Sweden	Overtornea 	0.0
+174	18-03-2020_04-04-43_AM	Sweden	Stockholm	2.0
+175	18-03-2020_04-04-45_AM	Sweden	Overtornea 	0.0
+176	18-03-2020_04-06-46_AM	Sweden	Stockholm	3.0
+177	18-03-2020_04-06-47_AM	Sweden	Overtornea 	0.0
+178	18-03-2020_04-08-48_AM	Sweden	Stockholm	4.0
+179	18-03-2020_04-08-49_AM	Sweden	Overtornea 	0.0
+180	18-03-2020_04-10-50_AM	Sweden	Stockholm	3.0
+181	18-03-2020_04-10-51_AM	Sweden	Overtornea 	0.0
+182	18-03-2020_04-12-53_AM	Sweden	Stockholm	2.0
+183	18-03-2020_04-12-54_AM	Sweden	Overtornea 	0.0
+184	18-03-2020_04-14-55_AM	Sweden	Stockholm	4.0
+185	18-03-2020_04-14-56_AM	Sweden	Overtornea 	0.0
+186	18-03-2020_04-16-57_AM	Sweden	Stockholm	3.0
+187	18-03-2020_04-16-58_AM	Sweden	Overtornea 	0.0
+188	18-03-2020_04-19-00_AM	Sweden	Stockholm	8.0
+189	18-03-2020_04-19-01_AM	Sweden	Overtornea 	0.0
+190	18-03-2020_04-21-02_AM	Sweden	Stockholm	5.0
+191	18-03-2020_04-21-03_AM	Sweden	Overtornea 	0.0
+192	18-03-2020_04-23-04_AM	Sweden	Stockholm	5.0
+193	18-03-2020_04-23-05_AM	Sweden	Overtornea 	0.0
+194	18-03-2020_04-25-06_AM	Sweden	Stockholm	3.0
+195	18-03-2020_04-25-08_AM	Sweden	Overtornea 	0.0
+196	18-03-2020_04-27-09_AM	Sweden	Stockholm	4.0
+197	18-03-2020_04-27-10_AM	Sweden	Overtornea 	0.0
+198	18-03-2020_04-29-11_AM	Sweden	Stockholm	5.0
+199	18-03-2020_04-29-12_AM	Sweden	Overtornea 	0.0
+200	18-03-2020_04-31-13_AM	Sweden	Stockholm	4.0
+201	18-03-2020_04-31-14_AM	Sweden	Overtornea 	0.0
+202	18-03-2020_04-33-16_AM	Sweden	Stockholm	4.0
+203	18-03-2020_04-33-17_AM	Sweden	Overtornea 	0.0
+204	18-03-2020_04-35-18_AM	Sweden	Stockholm	4.0
+205	18-03-2020_04-35-19_AM	Sweden	Overtornea 	0.0
+206	18-03-2020_04-37-20_AM	Sweden	Stockholm	5.0
+207	18-03-2020_04-37-21_AM	Sweden	Overtornea 	0.0
+208	18-03-2020_04-39-25_AM	Sweden	Stockholm	2.0
+209	18-03-2020_04-39-26_AM	Sweden	Overtornea 	0.0
+210	18-03-2020_04-41-27_AM	Sweden	Stockholm	5.0
+211	18-03-2020_04-41-28_AM	Sweden	Overtornea 	0.0
+212	18-03-2020_04-43-29_AM	Sweden	Stockholm	3.0
+213	18-03-2020_04-43-30_AM	Sweden	Overtornea 	0.0
+214	18-03-2020_04-45-32_AM	Sweden	Stockholm	5.0
+215	18-03-2020_04-45-33_AM	Sweden	Overtornea 	0.0
+216	18-03-2020_04-47-34_AM	Sweden	Stockholm	3.0
+217	18-03-2020_04-47-35_AM	Sweden	Overtornea 	0.0
+218	18-03-2020_04-49-36_AM	Sweden	Stockholm	4.0
+219	18-03-2020_04-49-37_AM	Sweden	Overtornea 	0.0
+220	18-03-2020_04-51-38_AM	Sweden	Stockholm	4.0
+221	18-03-2020_04-51-40_AM	Sweden	Overtornea 	0.0
+222	18-03-2020_04-53-41_AM	Sweden	Stockholm	4.0
+223	18-03-2020_04-53-42_AM	Sweden	Overtornea 	0.0
+224	18-03-2020_04-55-43_AM	Sweden	Stockholm	4.0
+225	18-03-2020_04-55-44_AM	Sweden	Overtornea 	0.0
+226	18-03-2020_04-57-45_AM	Sweden	Stockholm	4.0
+227	18-03-2020_04-57-46_AM	Sweden	Overtornea 	0.0
+228	18-03-2020_04-59-48_AM	Sweden	Stockholm	4.0
+229	18-03-2020_04-59-49_AM	Sweden	Overtornea 	0.0
+230	18-03-2020_05-01-50_AM	Sweden	Stockholm	3.0
+231	18-03-2020_05-01-51_AM	Sweden	Overtornea 	0.0
+232	18-03-2020_05-03-52_AM	Sweden	Stockholm	3.0
+233	18-03-2020_05-03-53_AM	Sweden	Overtornea 	0.0
+234	18-03-2020_05-05-54_AM	Sweden	Stockholm	2.0
+235	18-03-2020_05-05-56_AM	Sweden	Overtornea 	0.0
+236	18-03-2020_05-07-57_AM	Sweden	Stockholm	4.0
+237	18-03-2020_05-07-58_AM	Sweden	Overtornea 	0.0
+238	18-03-2020_05-09-59_AM	Sweden	Stockholm	3.0
+239	18-03-2020_05-10-00_AM	Sweden	Overtornea 	0.0
+240	18-03-2020_05-12-01_AM	Sweden	Stockholm	7.0
+241	18-03-2020_05-12-02_AM	Sweden	Overtornea 	0.0
+242	18-03-2020_05-14-04_AM	Sweden	Stockholm	5.0
+243	18-03-2020_05-14-05_AM	Sweden	Overtornea 	0.0
+244	18-03-2020_05-16-06_AM	Sweden	Stockholm	4.0
+245	18-03-2020_05-16-07_AM	Sweden	Overtornea 	0.0
+246	18-03-2020_05-18-08_AM	Sweden	Stockholm	3.0
+247	18-03-2020_05-18-09_AM	Sweden	Overtornea 	0.0
+248	18-03-2020_05-20-12_AM	Sweden	Stockholm	3.0
+249	18-03-2020_05-20-14_AM	Sweden	Overtornea 	0.0
+250	18-03-2020_05-22-15_AM	Sweden	Stockholm	2.0
+251	18-03-2020_05-22-16_AM	Sweden	Overtornea 	0.0
+252	18-03-2020_05-24-17_AM	Sweden	Stockholm	1.0
+253	18-03-2020_05-24-18_AM	Sweden	Overtornea 	0.0
+254	18-03-2020_05-26-20_AM	Sweden	Stockholm	2.0
+255	18-03-2020_05-26-21_AM	Sweden	Overtornea 	0.0
+256	18-03-2020_05-28-22_AM	Sweden	Stockholm	2.0
+257	18-03-2020_05-28-23_AM	Sweden	Overtornea 	0.0
+258	18-03-2020_05-30-24_AM	Sweden	Stockholm	2.0
+259	18-03-2020_05-30-25_AM	Sweden	Overtornea 	0.0
+260	18-03-2020_05-32-27_AM	Sweden	Stockholm	2.0
+261	18-03-2020_05-32-28_AM	Sweden	Overtornea 	0.0
+262	18-03-2020_05-34-29_AM	Sweden	Stockholm	2.0
+263	18-03-2020_05-34-30_AM	Sweden	Overtornea 	0.0
+264	18-03-2020_05-36-31_AM	Sweden	Stockholm	5.0
+265	18-03-2020_05-36-32_AM	Sweden	Overtornea 	0.0
+266	18-03-2020_05-38-33_AM	Sweden	Stockholm	2.0
+267	18-03-2020_05-38-35_AM	Sweden	Overtornea 	0.0
+268	18-03-2020_05-40-36_AM	Sweden	Stockholm	2.0
+269	18-03-2020_05-40-37_AM	Sweden	Overtornea 	0.0
+270	18-03-2020_05-42-38_AM	Sweden	Stockholm	2.0
+271	18-03-2020_05-42-39_AM	Sweden	Overtornea 	0.0
+272	18-03-2020_05-44-40_AM	Sweden	Stockholm	2.0
+273	18-03-2020_05-44-41_AM	Sweden	Overtornea 	0.0
+274	18-03-2020_05-46-43_AM	Sweden	Stockholm	1.0
+275	18-03-2020_05-46-44_AM	Sweden	Overtornea 	0.0
+276	18-03-2020_05-48-45_AM	Sweden	Stockholm	0.0
+277	18-03-2020_05-48-46_AM	Sweden	Overtornea 	0.0
+278	18-03-2020_05-50-47_AM	Sweden	Stockholm	0.0
+279	18-03-2020_05-50-48_AM	Sweden	Overtornea 	0.0
+280	18-03-2020_05-52-49_AM	Sweden	Stockholm	1.0
+281	18-03-2020_05-52-50_AM	Sweden	Overtornea 	0.0
+282	18-03-2020_05-54-52_AM	Sweden	Stockholm	5.0
+283	18-03-2020_05-54-53_AM	Sweden	Overtornea 	0.0
+284	18-03-2020_05-56-54_AM	Sweden	Stockholm	3.0
+285	18-03-2020_05-56-55_AM	Sweden	Overtornea 	0.0
+286	18-03-2020_05-58-56_AM	Sweden	Stockholm	3.0
+287	18-03-2020_05-58-57_AM	Sweden	Overtornea 	0.0
+288	18-03-2020_06-00-59_AM	Sweden	Stockholm	4.0
+289	18-03-2020_06-01-00_AM	Sweden	Overtornea 	0.0
+290	18-03-2020_06-03-01_AM	Sweden	Stockholm	2.0
+291	18-03-2020_06-03-02_AM	Sweden	Overtornea 	0.0
+292	18-03-2020_06-05-03_AM	Sweden	Stockholm	0.0
+293	18-03-2020_06-05-04_AM	Sweden	Overtornea 	0.0
+294	18-03-2020_06-07-05_AM	Sweden	Stockholm	2.0
+295	18-03-2020_06-07-07_AM	Sweden	Overtornea 	0.0
+296	18-03-2020_06-09-08_AM	Sweden	Stockholm	2.0
+297	18-03-2020_06-09-09_AM	Sweden	Overtornea 	0.0
+298	18-03-2020_06-11-11_AM	Sweden	Stockholm	2.0
+299	18-03-2020_06-11-14_AM	Sweden	Overtornea 	0.0
+300	18-03-2020_06-13-15_AM	Sweden	Stockholm	4.0
+301	18-03-2020_06-13-16_AM	Sweden	Overtornea 	0.0
+302	18-03-2020_06-15-18_AM	Sweden	Stockholm	2.0
+303	18-03-2020_06-15-19_AM	Sweden	Overtornea 	0.0
+304	18-03-2020_06-17-20_AM	Sweden	Stockholm	1.0
+305	18-03-2020_06-17-21_AM	Sweden	Overtornea 	0.0
+306	18-03-2020_06-19-24_AM	Sweden	Stockholm	2.0
+307	18-03-2020_06-19-25_AM	Sweden	Overtornea 	0.0
+308	18-03-2020_06-22-42_AM	Sweden	Stockholm	2.0
+309	18-03-2020_06-22-43_AM	Sweden	Overtornea 	0.0
+310	18-03-2020_06-24-44_AM	Sweden	Stockholm	1.0
+311	18-03-2020_06-24-47_AM	Sweden	Overtornea 	0.0
+312	18-03-2020_06-26-48_AM	Sweden	Stockholm	3.0
+313	18-03-2020_06-26-49_AM	Sweden	Overtornea 	0.0
+314	18-03-2020_06-28-51_AM	Sweden	Stockholm	3.0
+315	18-03-2020_06-28-52_AM	Sweden	Overtornea 	1.0
+316	18-03-2020_06-30-53_AM	Sweden	Stockholm	1.0
+317	18-03-2020_06-30-54_AM	Sweden	Overtornea 	1.0
+318	18-03-2020_06-32-56_AM	Sweden	Stockholm	3.0
+319	18-03-2020_06-32-57_AM	Sweden	Overtornea 	0.0
+320	18-03-2020_06-34-58_AM	Sweden	Stockholm	2.0
+321	18-03-2020_06-34-59_AM	Sweden	Overtornea 	0.0
+322	18-03-2020_06-37-00_AM	Sweden	Stockholm	5.0
+323	18-03-2020_06-37-01_AM	Sweden	Overtornea 	0.0
+324	18-03-2020_06-39-02_AM	Sweden	Stockholm	5.0
+325	18-03-2020_06-39-04_AM	Sweden	Overtornea 	0.0
+326	18-03-2020_06-41-05_AM	Sweden	Stockholm	2.0
+327	18-03-2020_06-41-06_AM	Sweden	Overtornea 	0.0
+328	18-03-2020_06-43-07_AM	Sweden	Stockholm	2.0
+329	18-03-2020_06-43-08_AM	Sweden	Overtornea 	0.0
+330	18-03-2020_06-45-09_AM	Sweden	Stockholm	5.0
+331	18-03-2020_06-45-10_AM	Sweden	Overtornea 	0.0
+332	18-03-2020_06-47-12_AM	Sweden	Stockholm	2.0
+333	18-03-2020_06-47-13_AM	Sweden	Overtornea 	0.0
+334	18-03-2020_06-49-14_AM	Sweden	Stockholm	3.0
+335	18-03-2020_06-49-15_AM	Sweden	Overtornea 	0.0
+336	18-03-2020_06-51-16_AM	Sweden	Stockholm	5.0
+337	18-03-2020_06-51-17_AM	Sweden	Overtornea 	0.0
+338	18-03-2020_06-53-19_AM	Sweden	Stockholm	3.0
+339	18-03-2020_06-53-20_AM	Sweden	Overtornea 	0.0
+340	18-03-2020_06-55-21_AM	Sweden	Stockholm	1.0
+341	18-03-2020_06-55-22_AM	Sweden	Overtornea 	0.0
+342	18-03-2020_06-57-23_AM	Sweden	Stockholm	2.0
+343	18-03-2020_06-57-24_AM	Sweden	Overtornea 	0.0
+344	18-03-2020_06-59-25_AM	Sweden	Stockholm	3.0
+345	18-03-2020_06-59-27_AM	Sweden	Overtornea 	0.0
+346	18-03-2020_07-01-28_AM	Sweden	Stockholm	2.0
+347	18-03-2020_07-01-29_AM	Sweden	Overtornea 	0.0
+348	18-03-2020_07-03-30_AM	Sweden	Stockholm	3.0
+349	18-03-2020_07-03-31_AM	Sweden	Overtornea 	0.0
+350	18-03-2020_07-05-32_AM	Sweden	Stockholm	3.0
+351	18-03-2020_07-05-33_AM	Sweden	Overtornea 	0.0
+352	18-03-2020_07-07-35_AM	Sweden	Stockholm	3.0
+353	18-03-2020_07-07-36_AM	Sweden	Overtornea 	0.0
+354	18-03-2020_07-09-37_AM	Sweden	Stockholm	2.0
+355	18-03-2020_07-09-38_AM	Sweden	Overtornea 	0.0
+356	18-03-2020_07-11-39_AM	Sweden	Stockholm	5.0
+357	18-03-2020_07-11-40_AM	Sweden	Overtornea 	0.0
+358	18-03-2020_07-13-41_AM	Sweden	Stockholm	5.0
+359	18-03-2020_07-13-43_AM	Sweden	Overtornea 	1.0
+360	18-03-2020_07-15-44_AM	Sweden	Stockholm	7.0
+361	18-03-2020_07-15-45_AM	Sweden	Overtornea 	0.0
+362	18-03-2020_07-17-46_AM	Sweden	Stockholm	13.0
+363	18-03-2020_07-17-47_AM	Sweden	Overtornea 	0.0
+364	18-03-2020_07-19-48_AM	Sweden	Stockholm	7.0
+365	18-03-2020_07-19-49_AM	Sweden	Overtornea 	1.0
+366	18-03-2020_07-21-51_AM	Sweden	Stockholm	5.0
+367	18-03-2020_07-21-52_AM	Sweden	Overtornea 	0.0
+368	18-03-2020_07-23-53_AM	Sweden	Stockholm	2.0
+369	18-03-2020_07-23-54_AM	Sweden	Overtornea 	2.0
+370	18-03-2020_07-25-55_AM	Sweden	Stockholm	4.0
+371	18-03-2020_07-25-56_AM	Sweden	Overtornea 	2.0
+372	18-03-2020_07-27-57_AM	Sweden	Stockholm	4.0
+373	18-03-2020_07-27-59_AM	Sweden	Overtornea 	1.0
+374	18-03-2020_07-30-00_AM	Sweden	Stockholm	3.0
+375	18-03-2020_07-30-01_AM	Sweden	Overtornea 	1.0
+376	18-03-2020_07-32-02_AM	Sweden	Stockholm	8.0
+377	18-03-2020_07-32-03_AM	Sweden	Overtornea 	0.0
+378	18-03-2020_07-34-04_AM	Sweden	Stockholm	7.0
+379	18-03-2020_07-34-06_AM	Sweden	Overtornea 	2.0
+380	18-03-2020_07-36-07_AM	Sweden	Stockholm	7.0
+381	18-03-2020_07-36-08_AM	Sweden	Overtornea 	1.0
+382	18-03-2020_07-38-09_AM	Sweden	Stockholm	11.0
+383	18-03-2020_07-38-10_AM	Sweden	Overtornea 	0.0
+384	18-03-2020_07-40-11_AM	Sweden	Stockholm	5.0
+385	18-03-2020_07-40-12_AM	Sweden	Overtornea 	0.0
+386	18-03-2020_07-42-13_AM	Sweden	Stockholm	5.0
+387	18-03-2020_07-42-15_AM	Sweden	Overtornea 	0.0
+388	18-03-2020_07-44-16_AM	Sweden	Stockholm	7.0
+389	18-03-2020_07-44-17_AM	Sweden	Overtornea 	3.0
+390	18-03-2020_07-46-18_AM	Sweden	Stockholm	4.0
+391	18-03-2020_07-46-19_AM	Sweden	Overtornea 	0.0
+392	18-03-2020_07-48-20_AM	Sweden	Stockholm	5.0
+393	18-03-2020_07-48-21_AM	Sweden	Overtornea 	1.0
+394	18-03-2020_07-50-23_AM	Sweden	Stockholm	11.0
+395	18-03-2020_07-50-24_AM	Sweden	Overtornea 	0.0
+396	18-03-2020_07-52-25_AM	Sweden	Stockholm	6.0
+397	18-03-2020_07-52-26_AM	Sweden	Overtornea 	0.0
+398	18-03-2020_07-54-27_AM	Sweden	Stockholm	6.0
+399	18-03-2020_07-54-28_AM	Sweden	Overtornea 	0.0
+400	18-03-2020_07-56-29_AM	Sweden	Stockholm	4.0
+401	18-03-2020_07-56-31_AM	Sweden	Overtornea 	1.0
+402	18-03-2020_07-58-32_AM	Sweden	Stockholm	7.0
+403	18-03-2020_07-58-33_AM	Sweden	Overtornea 	0.0
+404	18-03-2020_08-00-34_AM	Sweden	Stockholm	9.0
+405	18-03-2020_08-00-35_AM	Sweden	Overtornea 	0.0
+406	18-03-2020_08-02-36_AM	Sweden	Stockholm	7.0
+407	18-03-2020_08-02-37_AM	Sweden	Overtornea 	0.0
+408	18-03-2020_08-04-39_AM	Sweden	Stockholm	9.0
+409	18-03-2020_08-04-40_AM	Sweden	Overtornea 	0.0
+410	18-03-2020_08-06-41_AM	Sweden	Stockholm	7.0
+411	18-03-2020_08-06-42_AM	Sweden	Overtornea 	1.0
+412	18-03-2020_08-08-43_AM	Sweden	Stockholm	7.0
+413	18-03-2020_08-08-44_AM	Sweden	Overtornea 	1.0
+414	18-03-2020_08-10-46_AM	Sweden	Stockholm	2.0
+415	18-03-2020_08-10-47_AM	Sweden	Overtornea 	0.0
+416	18-03-2020_08-12-48_AM	Sweden	Stockholm	7.0
+417	18-03-2020_08-12-49_AM	Sweden	Overtornea 	0.0
+418	18-03-2020_08-14-50_AM	Sweden	Stockholm	5.0
+419	18-03-2020_08-14-51_AM	Sweden	Overtornea 	0.0
+420	18-03-2020_08-16-52_AM	Sweden	Stockholm	11.0
+421	18-03-2020_08-16-54_AM	Sweden	Overtornea 	0.0
+422	18-03-2020_08-18-55_AM	Sweden	Stockholm	5.0
+423	18-03-2020_08-18-56_AM	Sweden	Overtornea 	0.0
+424	18-03-2020_08-20-57_AM	Sweden	Stockholm	7.0
+425	18-03-2020_08-20-58_AM	Sweden	Overtornea 	0.0
+426	18-03-2020_08-22-59_AM	Sweden	Stockholm	5.0
+427	18-03-2020_08-23-00_AM	Sweden	Overtornea 	1.0
+428	18-03-2020_08-25-02_AM	Sweden	Stockholm	7.0
+429	18-03-2020_08-25-03_AM	Sweden	Overtornea 	1.0
+430	18-03-2020_08-27-04_AM	Sweden	Stockholm	4.0
+431	18-03-2020_08-27-05_AM	Sweden	Overtornea 	1.0
+432	18-03-2020_08-29-06_AM	Sweden	Stockholm	4.0
+433	18-03-2020_08-29-07_AM	Sweden	Overtornea 	0.0
+434	18-03-2020_08-31-09_AM	Sweden	Stockholm	5.0
+435	18-03-2020_08-31-10_AM	Sweden	Overtornea 	1.0
+436	18-03-2020_08-33-11_AM	Sweden	Stockholm	8.0
+437	18-03-2020_08-33-12_AM	Sweden	Overtornea 	0.0
+438	18-03-2020_08-35-13_AM	Sweden	Stockholm	6.0
+439	18-03-2020_08-35-14_AM	Sweden	Overtornea 	0.0
+440	18-03-2020_08-37-15_AM	Sweden	Stockholm	6.0
+441	18-03-2020_08-37-17_AM	Sweden	Overtornea 	0.0
+442	18-03-2020_08-39-18_AM	Sweden	Stockholm	0.0
+443	18-03-2020_08-39-19_AM	Sweden	Overtornea 	0.0
+444	18-03-2020_08-41-20_AM	Sweden	Stockholm	6.0
+445	18-03-2020_08-41-21_AM	Sweden	Overtornea 	0.0
+446	18-03-2020_08-43-22_AM	Sweden	Stockholm	6.0
+447	18-03-2020_08-43-24_AM	Sweden	Overtornea 	0.0
+448	18-03-2020_08-45-25_AM	Sweden	Stockholm	5.0
+449	18-03-2020_08-45-26_AM	Sweden	Overtornea 	0.0
+450	18-03-2020_08-47-27_AM	Sweden	Stockholm	5.0
+451	18-03-2020_08-47-28_AM	Sweden	Overtornea 	0.0
+452	18-03-2020_08-49-30_AM	Sweden	Stockholm	2.0
+453	18-03-2020_08-49-31_AM	Sweden	Overtornea 	0.0
+454	18-03-2020_08-51-32_AM	Sweden	Stockholm	4.0
+455	18-03-2020_08-51-33_AM	Sweden	Overtornea 	0.0
+456	18-03-2020_08-53-34_AM	Sweden	Stockholm	5.0
+457	18-03-2020_08-53-35_AM	Sweden	Overtornea 	0.0
+458	18-03-2020_08-55-37_AM	Sweden	Stockholm	5.0
+459	18-03-2020_08-55-38_AM	Sweden	Overtornea 	1.0
+460	18-03-2020_08-57-39_AM	Sweden	Stockholm	10.0
+461	18-03-2020_08-57-40_AM	Sweden	Overtornea 	0.0
+462	18-03-2020_08-59-41_AM	Sweden	Stockholm	3.0
+463	18-03-2020_08-59-42_AM	Sweden	Overtornea 	0.0
+464	18-03-2020_09-01-44_AM	Sweden	Stockholm	2.0
+465	18-03-2020_09-01-45_AM	Sweden	Overtornea 	0.0
+466	18-03-2020_09-03-46_AM	Sweden	Stockholm	5.0
+467	18-03-2020_09-03-47_AM	Sweden	Overtornea 	0.0
+468	18-03-2020_09-05-49_AM	Sweden	Stockholm	2.0
+469	18-03-2020_09-05-50_AM	Sweden	Overtornea 	1.0
+470	18-03-2020_09-07-51_AM	Sweden	Stockholm	6.0
+471	18-03-2020_09-07-52_AM	Sweden	Overtornea 	0.0
+472	18-03-2020_09-09-53_AM	Sweden	Stockholm	4.0
+473	18-03-2020_09-09-54_AM	Sweden	Overtornea 	0.0
+474	18-03-2020_09-11-56_AM	Sweden	Stockholm	8.0
+475	18-03-2020_09-11-57_AM	Sweden	Overtornea 	0.0
+476	18-03-2020_09-13-58_AM	Sweden	Stockholm	3.0
+477	18-03-2020_09-13-59_AM	Sweden	Overtornea 	0.0
+478	18-03-2020_09-16-00_AM	Sweden	Stockholm	1.0
+479	18-03-2020_09-16-02_AM	Sweden	Overtornea 	2.0
+480	18-03-2020_09-18-03_AM	Sweden	Stockholm	6.0
+481	18-03-2020_09-18-04_AM	Sweden	Overtornea 	0.0
+482	18-03-2020_09-20-05_AM	Sweden	Stockholm	1.0
+483	18-03-2020_09-20-06_AM	Sweden	Overtornea 	1.0
+484	18-03-2020_09-22-07_AM	Sweden	Stockholm	6.0
+485	18-03-2020_09-22-09_AM	Sweden	Overtornea 	0.0
+486	18-03-2020_09-24-10_AM	Sweden	Stockholm	4.0
+487	18-03-2020_09-24-11_AM	Sweden	Overtornea 	0.0
+488	18-03-2020_09-26-12_AM	Sweden	Stockholm	2.0
+489	18-03-2020_09-26-13_AM	Sweden	Overtornea 	1.0
+490	18-03-2020_09-28-14_AM	Sweden	Stockholm	1.0
+491	18-03-2020_09-28-16_AM	Sweden	Overtornea 	0.0
+492	18-03-2020_09-30-17_AM	Sweden	Stockholm	1.0
+493	18-03-2020_09-30-18_AM	Sweden	Overtornea 	1.0
+494	18-03-2020_09-32-19_AM	Sweden	Stockholm	3.0
+495	18-03-2020_09-32-20_AM	Sweden	Overtornea 	0.0
+496	18-03-2020_09-34-22_AM	Sweden	Stockholm	1.0
+497	18-03-2020_09-34-23_AM	Sweden	Overtornea 	0.0
+498	18-03-2020_09-36-24_AM	Sweden	Stockholm	1.0
+499	18-03-2020_09-36-25_AM	Sweden	Overtornea 	0.0
+500	18-03-2020_09-38-26_AM	Sweden	Stockholm	1.0
+501	18-03-2020_09-38-27_AM	Sweden	Overtornea 	0.0
+502	18-03-2020_09-40-29_AM	Sweden	Stockholm	2.0
+503	18-03-2020_09-40-30_AM	Sweden	Overtornea 	0.0
+504	18-03-2020_09-42-31_AM	Sweden	Stockholm	3.0
+505	18-03-2020_09-42-32_AM	Sweden	Overtornea 	3.0
+506	18-03-2020_09-44-33_AM	Sweden	Stockholm	6.0
+507	18-03-2020_09-44-34_AM	Sweden	Overtornea 	2.0
+508	18-03-2020_09-46-36_AM	Sweden	Stockholm	6.0
+509	18-03-2020_09-46-37_AM	Sweden	Overtornea 	2.0
+510	18-03-2020_09-48-38_AM	Sweden	Stockholm	0.0
+511	18-03-2020_09-48-39_AM	Sweden	Overtornea 	1.0
+512	18-03-2020_09-50-40_AM	Sweden	Stockholm	3.0
+513	18-03-2020_09-50-41_AM	Sweden	Overtornea 	0.0
+514	18-03-2020_09-52-43_AM	Sweden	Stockholm	1.0
+515	18-03-2020_09-52-44_AM	Sweden	Overtornea 	0.0
+516	18-03-2020_09-54-45_AM	Sweden	Stockholm	0.0
+517	18-03-2020_09-54-46_AM	Sweden	Overtornea 	0.0
+518	18-03-2020_09-56-47_AM	Sweden	Stockholm	2.0
+519	18-03-2020_09-56-48_AM	Sweden	Overtornea 	0.0
+520	18-03-2020_09-58-50_AM	Sweden	Stockholm	0.0
+521	18-03-2020_09-58-51_AM	Sweden	Overtornea 	2.0
+522	18-03-2020_10-00-52_AM	Sweden	Stockholm	5.0
+523	18-03-2020_10-00-53_AM	Sweden	Overtornea 	0.0
+524	18-03-2020_10-02-54_AM	Sweden	Stockholm	4.0
+525	18-03-2020_10-02-55_AM	Sweden	Overtornea 	0.0
+526	18-03-2020_10-04-57_AM	Sweden	Stockholm	1.0
+527	18-03-2020_10-04-58_AM	Sweden	Overtornea 	0.0
+528	18-03-2020_10-06-59_AM	Sweden	Stockholm	5.0
+529	18-03-2020_10-07-00_AM	Sweden	Overtornea 	0.0
+530	18-03-2020_10-09-01_AM	Sweden	Stockholm	0.0
+531	18-03-2020_10-09-03_AM	Sweden	Overtornea 	0.0
+532	18-03-2020_10-11-04_AM	Sweden	Stockholm	2.0
+533	18-03-2020_10-11-05_AM	Sweden	Overtornea 	0.0
+534	18-03-2020_10-13-06_AM	Sweden	Stockholm	3.0
+535	18-03-2020_10-13-07_AM	Sweden	Overtornea 	1.0
+536	18-03-2020_10-15-08_AM	Sweden	Stockholm	3.0
+537	18-03-2020_10-15-10_AM	Sweden	Overtornea 	0.0
+538	18-03-2020_10-17-11_AM	Sweden	Stockholm	2.0
+539	18-03-2020_10-17-12_AM	Sweden	Overtornea 	1.0
+540	18-03-2020_10-19-13_AM	Sweden	Stockholm	3.0
+541	18-03-2020_10-19-14_AM	Sweden	Overtornea 	0.0
+542	18-03-2020_10-21-15_AM	Sweden	Stockholm	1.0
+543	18-03-2020_10-21-17_AM	Sweden	Overtornea 	0.0
+544	18-03-2020_10-23-18_AM	Sweden	Stockholm	4.0
+545	18-03-2020_10-23-19_AM	Sweden	Overtornea 	0.0
+546	18-03-2020_10-25-20_AM	Sweden	Stockholm	5.0
+547	18-03-2020_10-25-21_AM	Sweden	Overtornea 	0.0
+548	18-03-2020_10-27-22_AM	Sweden	Stockholm	4.0
+549	18-03-2020_10-27-24_AM	Sweden	Overtornea 	2.0
+550	18-03-2020_10-29-25_AM	Sweden	Stockholm	5.0
+551	18-03-2020_10-29-26_AM	Sweden	Overtornea 	0.0
+552	18-03-2020_10-31-27_AM	Sweden	Stockholm	10.0
+553	18-03-2020_10-31-28_AM	Sweden	Overtornea 	0.0
+554	18-03-2020_10-33-30_AM	Sweden	Stockholm	2.0
+555	18-03-2020_10-33-31_AM	Sweden	Overtornea 	0.0
+556	18-03-2020_10-35-32_AM	Sweden	Stockholm	1.0
+557	18-03-2020_10-35-33_AM	Sweden	Overtornea 	0.0
+558	18-03-2020_10-37-34_AM	Sweden	Stockholm	1.0
+559	18-03-2020_10-37-36_AM	Sweden	Overtornea 	0.0
+560	18-03-2020_10-39-37_AM	Sweden	Stockholm	2.0
+561	18-03-2020_10-39-38_AM	Sweden	Overtornea 	0.0
+562	18-03-2020_10-41-39_AM	Sweden	Stockholm	5.0
+563	18-03-2020_10-41-40_AM	Sweden	Overtornea 	0.0
+564	18-03-2020_10-43-41_AM	Sweden	Stockholm	5.0
+565	18-03-2020_10-43-43_AM	Sweden	Overtornea 	0.0
+566	18-03-2020_10-45-44_AM	Sweden	Stockholm	3.0
+567	18-03-2020_10-45-45_AM	Sweden	Overtornea 	3.0
+568	18-03-2020_10-47-46_AM	Sweden	Stockholm	5.0
+569	18-03-2020_10-47-47_AM	Sweden	Overtornea 	1.0
+570	18-03-2020_10-49-48_AM	Sweden	Stockholm	3.0
+571	18-03-2020_10-49-50_AM	Sweden	Overtornea 	0.0
+572	18-03-2020_10-51-51_AM	Sweden	Stockholm	12.0
+573	18-03-2020_10-51-56_AM	Sweden	Overtornea 	0.0
+574	18-03-2020_10-53-57_AM	Sweden	Stockholm	4.0
+575	18-03-2020_10-53-58_AM	Sweden	Overtornea 	0.0
+576	18-03-2020_10-55-59_AM	Sweden	Stockholm	4.0
+577	18-03-2020_10-56-00_AM	Sweden	Overtornea 	0.0
+578	18-03-2020_10-58-02_AM	Sweden	Stockholm	1.0
+579	18-03-2020_10-58-03_AM	Sweden	Overtornea 	0.0
+580	18-03-2020_11-00-04_AM	Sweden	Stockholm	8.0
+581	18-03-2020_11-00-05_AM	Sweden	Overtornea 	0.0
+582	18-03-2020_11-02-06_AM	Sweden	Stockholm	5.0
+583	18-03-2020_11-02-07_AM	Sweden	Overtornea 	0.0
+584	18-03-2020_11-04-09_AM	Sweden	Stockholm	7.0
+585	18-03-2020_11-04-10_AM	Sweden	Overtornea 	2.0
+586	18-03-2020_11-06-11_AM	Sweden	Stockholm	7.0
+587	18-03-2020_11-06-12_AM	Sweden	Overtornea 	0.0
+588	18-03-2020_11-08-13_AM	Sweden	Stockholm	7.0
+589	18-03-2020_11-08-14_AM	Sweden	Overtornea 	0.0
+590	18-03-2020_11-10-16_AM	Sweden	Stockholm	5.0
+591	18-03-2020_11-10-17_AM	Sweden	Overtornea 	1.0
+592	18-03-2020_11-12-18_AM	Sweden	Stockholm	6.0
+593	18-03-2020_11-12-19_AM	Sweden	Overtornea 	0.0
+594	18-03-2020_11-14-20_AM	Sweden	Stockholm	8.0
+595	18-03-2020_11-14-21_AM	Sweden	Overtornea 	0.0
+596	18-03-2020_11-16-22_AM	Sweden	Stockholm	3.0
+597	18-03-2020_11-16-24_AM	Sweden	Overtornea 	0.0
+598	18-03-2020_11-18-28_AM	Sweden	Stockholm	3.0
+599	18-03-2020_11-18-29_AM	Sweden	Overtornea 	1.0
+600	18-03-2020_11-20-31_AM	Sweden	Stockholm	3.0
+601	18-03-2020_11-20-32_AM	Sweden	Overtornea 	0.0
+602	18-03-2020_11-22-33_AM	Sweden	Stockholm	11.0
+603	18-03-2020_11-22-34_AM	Sweden	Overtornea 	0.0
+604	18-03-2020_11-24-35_AM	Sweden	Stockholm	9.0
+605	18-03-2020_11-24-36_AM	Sweden	Overtornea 	0.0
+606	18-03-2020_11-26-38_AM	Sweden	Stockholm	5.0
+607	18-03-2020_11-26-39_AM	Sweden	Overtornea 	0.0
+608	18-03-2020_11-28-40_AM	Sweden	Stockholm	5.0
+609	18-03-2020_11-28-41_AM	Sweden	Overtornea 	0.0
+610	18-03-2020_11-30-42_AM	Sweden	Stockholm	5.0
+611	18-03-2020_11-30-43_AM	Sweden	Overtornea 	0.0
+612	18-03-2020_11-32-44_AM	Sweden	Stockholm	6.0
+613	18-03-2020_11-32-46_AM	Sweden	Overtornea 	0.0
+614	18-03-2020_11-34-47_AM	Sweden	Stockholm	6.0
+615	18-03-2020_11-34-48_AM	Sweden	Overtornea 	0.0
+616	18-03-2020_11-36-49_AM	Sweden	Stockholm	10.0
+617	18-03-2020_11-36-50_AM	Sweden	Overtornea 	0.0
+618	18-03-2020_11-38-54_AM	Sweden	Stockholm	5.0
+619	18-03-2020_11-38-55_AM	Sweden	Overtornea 	0.0
+620	18-03-2020_11-40-57_AM	Sweden	Stockholm	5.0
+621	18-03-2020_11-40-58_AM	Sweden	Overtornea 	0.0
+622	18-03-2020_11-42-59_AM	Sweden	Stockholm	10.0
+623	18-03-2020_11-43-00_AM	Sweden	Overtornea 	0.0
+624	18-03-2020_11-45-01_AM	Sweden	Stockholm	6.0
+625	18-03-2020_11-45-03_AM	Sweden	Overtornea 	0.0
+626	18-03-2020_11-47-04_AM	Sweden	Stockholm	5.0
+627	18-03-2020_11-47-05_AM	Sweden	Overtornea 	1.0
+628	18-03-2020_11-49-06_AM	Sweden	Stockholm	4.0
+629	18-03-2020_11-49-07_AM	Sweden	Overtornea 	3.0
+630	18-03-2020_11-51-09_AM	Sweden	Stockholm	10.0
+631	18-03-2020_11-51-10_AM	Sweden	Overtornea 	0.0
+632	18-03-2020_11-53-11_AM	Sweden	Stockholm	5.0
+633	18-03-2020_11-53-12_AM	Sweden	Overtornea 	0.0
+634	18-03-2020_11-55-13_AM	Sweden	Stockholm	15.0
+635	18-03-2020_11-55-14_AM	Sweden	Overtornea 	0.0
+636	18-03-2020_11-57-15_AM	Sweden	Stockholm	5.0
+637	18-03-2020_11-57-17_AM	Sweden	Overtornea 	0.0
+638	18-03-2020_11-59-18_AM	Sweden	Stockholm	5.0
+639	18-03-2020_11-59-19_AM	Sweden	Overtornea 	0.0
+640	18-03-2020_12-01-20_PM	Sweden	Stockholm	6.0
+641	18-03-2020_12-01-21_PM	Sweden	Overtornea 	0.0
+642	18-03-2020_12-02-35_AM	Sweden	Stockholm	1.0
+643	18-03-2020_12-02-36_AM	Sweden	Overtornea 	0.0
+644	18-03-2020_12-04-51_AM	Sweden	Stockholm	5.0
+645	18-03-2020_12-04-52_AM	Sweden	Overtornea 	0.0
+646	18-03-2020_12-06-53_AM	Sweden	Stockholm	2.0
+647	18-03-2020_12-06-54_AM	Sweden	Overtornea 	0.0
+648	18-03-2020_12-08-56_AM	Sweden	Stockholm	3.0
+649	18-03-2020_12-08-57_AM	Sweden	Overtornea 	0.0
+650	18-03-2020_12-10-58_AM	Sweden	Stockholm	2.0
+651	18-03-2020_12-10-59_AM	Sweden	Overtornea 	0.0
+652	18-03-2020_12-13-00_AM	Sweden	Stockholm	1.0
+653	18-03-2020_12-13-01_AM	Sweden	Overtornea 	0.0
+654	18-03-2020_12-15-02_AM	Sweden	Stockholm	1.0
+655	18-03-2020_12-15-04_AM	Sweden	Overtornea 	0.0
+656	18-03-2020_12-17-05_AM	Sweden	Stockholm	1.0
+657	18-03-2020_12-17-06_AM	Sweden	Overtornea 	0.0
+658	18-03-2020_12-19-07_AM	Sweden	Stockholm	0.0
+659	18-03-2020_12-19-08_AM	Sweden	Overtornea 	0.0
+660	18-03-2020_12-21-09_AM	Sweden	Stockholm	1.0
+661	18-03-2020_12-21-10_AM	Sweden	Overtornea 	0.0
+662	18-03-2020_12-23-12_AM	Sweden	Stockholm	2.0
+663	18-03-2020_12-23-13_AM	Sweden	Overtornea 	0.0
+664	18-03-2020_12-25-14_AM	Sweden	Stockholm	1.0
+665	18-03-2020_12-25-15_AM	Sweden	Overtornea 	0.0
+666	18-03-2020_12-27-16_AM	Sweden	Stockholm	2.0
+667	18-03-2020_12-27-17_AM	Sweden	Overtornea 	0.0
+668	18-03-2020_12-29-18_AM	Sweden	Stockholm	4.0
+669	18-03-2020_12-29-20_AM	Sweden	Overtornea 	0.0
+670	18-03-2020_12-31-21_AM	Sweden	Stockholm	2.0
+671	18-03-2020_12-31-22_AM	Sweden	Overtornea 	0.0
+672	18-03-2020_12-33-23_AM	Sweden	Stockholm	1.0
+673	18-03-2020_12-33-24_AM	Sweden	Overtornea 	0.0
+674	18-03-2020_12-35-25_AM	Sweden	Stockholm	1.0
+675	18-03-2020_12-35-26_AM	Sweden	Overtornea 	0.0
+676	18-03-2020_12-37-28_AM	Sweden	Stockholm	4.0
+677	18-03-2020_12-37-29_AM	Sweden	Overtornea 	0.0
+678	18-03-2020_12-39-30_AM	Sweden	Stockholm	3.0
+679	18-03-2020_12-39-31_AM	Sweden	Overtornea 	0.0
+680	18-03-2020_12-41-32_AM	Sweden	Stockholm	3.0
+681	18-03-2020_12-41-33_AM	Sweden	Overtornea 	0.0
+682	18-03-2020_12-43-35_AM	Sweden	Stockholm	1.0
+683	18-03-2020_12-43-36_AM	Sweden	Overtornea 	0.0
+684	18-03-2020_12-45-37_AM	Sweden	Stockholm	2.0
+685	18-03-2020_12-45-38_AM	Sweden	Overtornea 	0.0
+686	18-03-2020_12-47-39_AM	Sweden	Stockholm	3.0
+687	18-03-2020_12-47-40_AM	Sweden	Overtornea 	0.0
+688	18-03-2020_12-49-42_AM	Sweden	Stockholm	3.0
+689	18-03-2020_12-49-43_AM	Sweden	Overtornea 	0.0
+690	18-03-2020_12-51-44_AM	Sweden	Stockholm	2.0
+691	18-03-2020_12-51-45_AM	Sweden	Overtornea 	0.0
+692	18-03-2020_12-53-46_AM	Sweden	Stockholm	1.0
+693	18-03-2020_12-53-47_AM	Sweden	Overtornea 	0.0
+694	18-03-2020_12-55-48_AM	Sweden	Stockholm	4.0
+695	18-03-2020_12-55-50_AM	Sweden	Overtornea 	0.0
+696	18-03-2020_12-57-51_AM	Sweden	Stockholm	1.0
+697	18-03-2020_12-57-52_AM	Sweden	Overtornea 	0.0
+698	18-03-2020_12-59-53_AM	Sweden	Stockholm	4.0
+699	18-03-2020_12-59-54_AM	Sweden	Overtornea 	0.0
+700	19-03-2020_02-38-02_PM	Sweden	Stockholm	2.0
+701	19-03-2020_02-38-04_PM	Sweden	Overtornea 	0.0
+702	19-03-2020_02-39-32_PM	Sweden	Stockholm	2.0
+703	19-03-2020_02-39-33_PM	Sweden	Overtornea 	1.0
+704	19-03-2020_02-41-34_PM	Sweden	Stockholm	4.0
+705	19-03-2020_02-41-35_PM	Sweden	Overtornea 	1.0
+706	19-03-2020_02-43-36_PM	Sweden	Stockholm	2.0
+707	19-03-2020_02-43-38_PM	Sweden	Overtornea 	1.0
+708	19-03-2020_02-45-28_PM	Sweden	Stockholm	4.0
+709	19-03-2020_02-45-29_PM	Sweden	Overtornea 	0.0
+710	19-03-2020_05-19-41_PM	Sweden	Stockholm	1.0
+711	19-03-2020_05-19-42_PM	Sweden	Overtornea 	0.0
+712	19-03-2020_05-27-33_PM	Sweden	Stockholm	0.0
+713	19-03-2020_05-27-34_PM	Sweden	Overtornea 	0.0
+714	19-03-2020_05-35-01_PM	Sweden	Stockholm	1.0
+715	19-03-2020_05-35-02_PM	Sweden	Overtornea 	0.0
+716	19-03-2020_05-42-24_PM	Sweden	Stockholm	10.0
+717	19-03-2020_05-42-25_PM	Sweden	Overtornea 	1.0
+718	19-03-2020_05-42-36_PM	Sweden	Stockholm	16.0
+719	19-03-2020_05-42-38_PM	Sweden	Overtornea 	1.0
+720	19-03-2020_05-42-49_PM	Sweden	Stockholm	1.0
+721	19-03-2020_05-42-50_PM	Sweden	Overtornea 	0.0
+722	19-03-2020_05-46-28_PM	Sweden	Stockholm	0.0
+723	19-03-2020_05-46-47_PM	Sweden	Overtornea 	0.0
+724	19-03-2020_05-47-01_PM	Sweden	Stockholm	0.0
+725	19-03-2020_05-47-02_PM	Sweden	Overtornea 	0.0
+726	19-03-2020_05-50-53_PM	Sweden	Stockholm	1.0
+727	19-03-2020_05-50-54_PM	Sweden	Overtornea 	1.0
+728	19-03-2020_05-58-33_PM	Sweden	Stockholm	2.0
+729	19-03-2020_05-58-34_PM	Sweden	Overtornea 	0.0
+730	19-03-2020_06-07-13_PM	Sweden	Stockholm	1.0
+731	19-03-2020_06-07-15_PM	Sweden	Overtornea 	0.0
+732	19-03-2020_06-14-57_PM	Sweden	Stockholm	0.0
+733	19-03-2020_06-14-58_PM	Sweden	Overtornea 	0.0
+734	19-03-2020_06-16-07_PM	Sweden	Stockholm	1.0
+735	19-03-2020_06-16-08_PM	Sweden	Overtornea 	0.0
+736	19-03-2020_06-23-08_PM	Sweden	Stockholm	1.0
+737	19-03-2020_06-23-09_PM	Sweden	Overtornea 	0.0
+738	19-03-2020_06-29-38_PM	Sweden	Stockholm	0.0
+739	19-03-2020_06-29-38_PM	Sweden	Overtornea 	0.0
+740	19-03-2020_06-29-51_PM	Sweden	Overtornea 	0.0
+741	19-03-2020_06-29-51_PM	Sweden	Stockholm	1.0
+742	19-03-2020_06-31-12_PM	Sweden	Stockholm	1.0
+743	19-03-2020_06-31-13_PM	Sweden	Overtornea 	0.0
+744	19-03-2020_06-38-59_PM	Sweden	Stockholm	0.0
+745	19-03-2020_06-38-59_PM	Sweden	Overtornea 	0.0
+746	19-03-2020_06-47-14_PM	Sweden	Stockholm	1.0
+747	19-03-2020_06-47-15_PM	Sweden	Overtornea 	0.0
+748	19-03-2020_06-54-50_PM	Sweden	Stockholm	1.0
+749	19-03-2020_06-54-51_PM	Sweden	Overtornea 	0.0
+750	19-03-2020_07-03-42_PM	Sweden	Stockholm	1.0
+751	19-03-2020_07-03-44_PM	Sweden	Overtornea 	0.0
+752	19-03-2020_07-11-10_PM	Sweden	Stockholm	1.0
+753	19-03-2020_07-11-11_PM	Sweden	Overtornea 	0.0
+754	19-03-2020_07-19-37_PM	Sweden	Stockholm	0.0
+755	19-03-2020_07-19-38_PM	Sweden	Overtornea 	0.0
+756	19-03-2020_07-26-45_PM	Sweden	Stockholm	1.0
+757	19-03-2020_07-26-50_PM	Sweden	Overtornea 	0.0
+758	19-03-2020_07-35-00_PM	Sweden	Stockholm	1.0
+759	19-03-2020_07-35-01_PM	Sweden	Overtornea 	0.0
+760	19-03-2020_07-42-27_PM	Sweden	Stockholm	1.0
+761	19-03-2020_07-42-28_PM	Sweden	Overtornea 	0.0
+762	19-03-2020_07-50-15_PM	Sweden	Stockholm	1.0
+763	19-03-2020_07-50-16_PM	Sweden	Overtornea 	0.0
+764	19-03-2020_07-58-08_PM	Sweden	Stockholm	1.0
+765	19-03-2020_07-58-09_PM	Sweden	Overtornea 	0.0
+766	19-03-2020_08-01-31_PM	Sweden	Stockholm	0.0
+767	19-03-2020_08-01-32_PM	Sweden	Overtornea 	0.0
+768	19-03-2020_08-07-38_PM	Sweden	Stockholm	1.0
+769	19-03-2020_08-07-39_PM	Sweden	Overtornea 	0.0
+770	19-03-2020_08-15-10_PM	Sweden	Stockholm	1.0
+771	19-03-2020_08-15-11_PM	Sweden	Overtornea 	0.0
+772	19-03-2020_08-23-12_PM	Sweden	Stockholm	1.0
+773	19-03-2020_08-23-13_PM	Sweden	Overtornea 	0.0
+774	19-03-2020_08-29-10_PM	Sweden	Stockholm	0.0
+775	19-03-2020_08-29-11_PM	Sweden	Stockholm	0.0
+776	19-03-2020_08-29-11_PM	Sweden	Stockholm	0.0
+777	19-03-2020_08-29-13_PM	Sweden	Stockholm	0.0
+778	19-03-2020_08-29-14_PM	Sweden	Overtornea 	0.0
+779	19-03-2020_08-29-14_PM	Sweden	Goteborg	0.0
+780	19-03-2020_08-30-50_PM	Sweden	Stockholm	1.0
+781	19-03-2020_08-30-51_PM	Sweden	Stockholm	0.0
+782	19-03-2020_08-30-52_PM	Sweden	Stockholm	0.0
+783	19-03-2020_08-30-53_PM	Sweden	Stockholm	0.0
+784	19-03-2020_08-30-54_PM	Sweden	Goteborg	0.0
+785	19-03-2020_08-30-55_PM	Sweden	Overtornea 	0.0
+786	19-03-2020_08-38-41_PM	Sweden	Stockholm	1.0
+787	19-03-2020_08-38-42_PM	Sweden	Stockholm	0.0
+788	19-03-2020_08-38-43_PM	Sweden	Stockholm	0.0
+789	19-03-2020_08-38-44_PM	Sweden	Stockholm	0.0
+790	19-03-2020_08-38-45_PM	Sweden	Goteborg	0.0
+791	19-03-2020_08-38-46_PM	Sweden	Overtornea 	0.0
+792	19-03-2020_08-46-44_PM	Sweden	Stockholm	1.0
+793	19-03-2020_08-46-45_PM	Sweden	Stockholm	0.0
+794	19-03-2020_08-46-46_PM	Sweden	Stockholm	0.0
+795	19-03-2020_08-46-47_PM	Sweden	Stockholm	0.0
+796	19-03-2020_08-46-48_PM	Sweden	Goteborg	0.0
+797	19-03-2020_08-46-49_PM	Sweden	Overtornea 	0.0
+798	<<<<<<< HEAD	0	0	0.0
+799	=======	0	0	0.0
+800	>>>>>>> 022f6893b1784ce9fa6a92cbc161519d583d0a16	0	0	0.0

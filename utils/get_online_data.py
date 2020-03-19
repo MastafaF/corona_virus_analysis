@@ -47,5 +47,5 @@ def get_image(url, city, country, zone_id, save = False):
     time_now_str = datetime.now().strftime("%d-%m-%Y_%I-%M-%S_%p")
     if save:
         #np.save(arr=img_arr, file=IMAGES_PATH + 'Sweden%Stockholm%' + time_now_str)
-        img.save(IMAGES_PATH + city + '%' + country + '%' + time_now_str + '%' + str(zone_id) + ".jpeg")
+        img.save(IMAGES_PATH + country + '%' + city + '%' + time_now_str + '%' + str(zone_id) + ".jpeg")
     return img, time_now_str

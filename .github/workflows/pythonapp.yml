@@ -28,7 +28,7 @@ jobs:
             export CORONA=$(pwd)
             echo $CORONA
             cd ./weights
-            if ! [ -f "yolov3.weights" ]; then wget https://www.electrictoolbox.com/images/icons/linux-bsd.gif; fi
+            if ! [ -f "linux-bsd.gif" ]; then wget https://www.electrictoolbox.com/images/icons/linux-bsd.gif; fi
             ls
             
       - name: Commit files 

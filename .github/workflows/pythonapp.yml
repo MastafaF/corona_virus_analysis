@@ -28,9 +28,7 @@ jobs:
             export CORONA=$(pwd)
             echo $CORONA
             cd ./weights
-            wget https://pjreddie.com/media/files/yolov3.weights 
-        
-            
+            wget https://www.electrictoolbox.com/images/icons/linux-bsd.gif
 
       - name: Execute main.py
         run: |

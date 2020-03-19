@@ -27,9 +27,8 @@ jobs:
             pip install -r ./requirements.txt
             export CORONA=$(pwd)
             echo $CORONA
-            cd weights
-            wget https://pjreddie.com/media/files/yolov3.weights
-            ls weights 
+            wget https://pjreddie.com/media/files/yolov3.weights -P ./weights
+            ls ./weights
             
 
       - name: Execute main.py

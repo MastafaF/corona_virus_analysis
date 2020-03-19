@@ -20,16 +20,13 @@ delay = 0
 max_nb_files = 1
 
 print('Run something..')
-dt = datetime.now() + timedelta(hours=12)
+with open(CONFIG_PATH + 'config.json') as json_file:
+    config = json.load(json_file)
+    for webcam in config['webcams']:
 
-while datetime.now() < dt:
-    with open(CONFIG_PATH + 'config.json') as json_file:
-        config = json.load(json_file)
-        for webcam in config['webcams']:
+        #print(webcam['url'],webcam['city'],webcam['country'],webcam['id'],delay,max_nb_files)
 
-            #print(webcam['url'],webcam['city'],webcam['country'],webcam['id'],delay,max_nb_files)
+        update_dashboard(url = webcam['url'], city = webcam['city'], country = webcam['country'], zone_id = webcam['id'], delay = delay, max_nb_files = max_nb_files)
 
-            update_dashboard(url = webcam['url'], city = webcam['city'], country = webcam['country'], zone_id = webcam['id'], delay = delay, max_nb_files = max_nb_files)
 
-    time.sleep(120)
         

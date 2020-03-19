@@ -2,6 +2,15 @@
 
 This project aims to analyse coronavirus impact. 
 
+# TODO:
+* Add more cities in Sweden like Gothenburg ( just the two big ones: Stockholm and Gothenburg ) 
+* Add more positions in Stockholm  
+* Think about the metrics to focus on : 
+    * max-min (nb_persons_detected) 
+    * mean(nb_persons_detected)
+    * max(nb_persons_detected) 
+
+
 # Goals 
 
 Questions of interest: 

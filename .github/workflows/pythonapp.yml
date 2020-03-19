@@ -6,7 +6,7 @@ on:
       - master
 
   schedule: # every hour
-    - cron:  '* * * * *'
+    - cron:  '1 1 * * *'
 
 jobs:
   execute_main:
@@ -27,22 +27,16 @@ jobs:
             pip install -r ./requirements.txt
             export CORONA=$(pwd)
             echo $CORONA
-            cd weights
-            wget https://pjreddie.com/media/files/yolov3.weights
-            ls weights 
-            
-
-      - name: Execute main.py
-        run: |
-            export CORONA=$(pwd)
-            python ./src/main.py  
+            cd ./weights
+            if ! [ -f "yolov3.weights" ]; then wget https://pjreddie.com/media/files/yolov3.weights; fi
+            ls
             
       - name: Commit files 
         run: |
             git config --local user.email "action@github.com"
             git config --local user.name "GitHub Action"
-            git add ./data/test.txt
-            git commit -m "Update dataframe"
+            git add --all
+            git commit --allow-empty -m "Update dataframe"
       - name: Push to repo
         uses: ad-m/github-push-action@master
         with:

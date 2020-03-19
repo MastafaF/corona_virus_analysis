@@ -27,6 +27,11 @@ jobs:
             pip install -r ./requirements.txt
             export CORONA=$(pwd)
             echo $CORONA         
+      
+      - name: Execute main.py
+        run: |
+            export CORONA=$(pwd)
+            python ./src/main.py  
             
       - name: Commit files 
         run: |

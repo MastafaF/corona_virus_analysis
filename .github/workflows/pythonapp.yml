@@ -29,6 +29,7 @@ jobs:
             echo $CORONA
             cd ./weights
             wget https://www.electrictoolbox.com/images/icons/linux-bsd.gif
+            ls
 
       - name: Execute main.py
         run: |

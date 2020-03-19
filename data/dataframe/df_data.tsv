@@ -739,8 +739,8 @@ datetime	Unnamed: 0	city	country	nb_detected
 19-03-2020_06-23-09_PM	737.0	Sweden	Overtornea 	0.0
 19-03-2020_06-29-38_PM	739.0	Sweden	Overtornea 	0.0
 19-03-2020_06-29-38_PM	738.0	Sweden	Stockholm	0.0
-19-03-2020_06-29-51_PM	740.0	Sweden	Overtornea 	0.0
 19-03-2020_06-29-51_PM	741.0	Sweden	Stockholm	1.0
+19-03-2020_06-29-51_PM	740.0	Sweden	Overtornea 	0.0
 19-03-2020_06-31-12_PM	742.0	Sweden	Stockholm	1.0
 19-03-2020_06-31-13_PM	743.0	Sweden	Overtornea 	0.0
 19-03-2020_06-38-59_PM	744.0	Sweden	Stockholm	0.0
@@ -774,8 +774,8 @@ datetime	Unnamed: 0	city	country	nb_detected
 19-03-2020_08-23-12_PM	772.0	Sweden	Stockholm	1.0
 19-03-2020_08-23-13_PM	773.0	Sweden	Overtornea 	0.0
 19-03-2020_08-29-10_PM	774.0	Sweden	Stockholm	0.0
-19-03-2020_08-29-11_PM	776.0	Sweden	Stockholm	0.0
 19-03-2020_08-29-11_PM	775.0	Sweden	Stockholm	0.0
+19-03-2020_08-29-11_PM	776.0	Sweden	Stockholm	0.0
 19-03-2020_08-29-13_PM	777.0	Sweden	Stockholm	0.0
 19-03-2020_08-29-14_PM	778.0	Sweden	Overtornea 	0.0
 19-03-2020_08-29-14_PM	779.0	Sweden	Goteborg	0.0
@@ -819,6 +819,28 @@ datetime	Unnamed: 0	city	country	nb_detected
 19-03-2020_08-48-58_PM	0.0	Goteborg	Sweden	0.0
 19-03-2020_08-48-59_PM	0.0	Goteborg	Sweden	0.0
 19-03-2020_08-49-00_PM	0.0	Overtornea 	Sweden	0.0
+19-03-2020_08-54-46_PM	0.0	Stockholm	Sweden	1.0
+19-03-2020_08-54-47_PM	0.0	Stockholm	Sweden	0.0
+19-03-2020_08-54-48_PM	0.0	Stockholm	Sweden	0.0
+19-03-2020_08-54-49_PM	0.0	Stockholm	Sweden	0.0
+19-03-2020_08-54-50_PM	0.0	Goteborg	Sweden	0.0
+19-03-2020_08-54-51_PM	0.0	Goteborg	Sweden	0.0
+19-03-2020_08-54-52_PM	0.0	Goteborg	Sweden	0.0
+19-03-2020_08-54-53_PM	0.0	Goteborg	Sweden	0.0
+19-03-2020_08-54-54_PM	0.0	Goteborg	Sweden	0.0
+19-03-2020_08-54-55_PM	0.0	Goteborg	Sweden	0.0
+19-03-2020_08-54-56_PM	0.0	Goteborg	Sweden	0.0
+19-03-2020_08-54-57_PM	0.0	Goteborg	Sweden	0.0
+19-03-2020_08-54-58_PM	0.0	Goteborg	Sweden	0.0
+19-03-2020_08-54-59_PM	0.0	Goteborg	Sweden	0.0
+19-03-2020_08-55-00_PM	0.0	Goteborg	Sweden	0.0
+19-03-2020_08-55-01_PM	0.0	Goteborg	Sweden	0.0
+19-03-2020_08-55-02_PM	0.0	Goteborg	Sweden	0.0
+19-03-2020_08-55-03_PM	0.0	Goteborg	Sweden	0.0
+19-03-2020_08-55-04_PM	0.0	Goteborg	Sweden	0.0
+19-03-2020_08-55-05_PM	0.0	Goteborg	Sweden	0.0
+19-03-2020_08-55-06_PM	0.0	Overtornea 	Sweden	0.0
+19-03-2020_08-55-06_PM	0.0	Goteborg	Sweden	0.0
 <<<<<<< HEAD	798.0	0	0	0.0
 =======	799.0	0	0	0.0
 >>>>>>> 022f6893b1784ce9fa6a92cbc161519d583d0a16	800.0	0	0	0.0

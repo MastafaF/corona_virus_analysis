@@ -7,7 +7,7 @@ on:
 
   schedule: # every hour
     - cron:  '* 6-22 * * *'
-    - cron:  '*/5 * * * '
+    - cron:  '*/5 * * * *'
 
 jobs:
   execute_main:

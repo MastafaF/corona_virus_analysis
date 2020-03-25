@@ -1,4 +1,5 @@
 .idea/*
 .DS_Store
 .utils/__pycache__/*
-.weights/yolov3.weights
+weights/yolov3.weights
+.vs/

@@ -34,7 +34,7 @@ def count_person(path):
     height, width, channels = img.shape
 
     # Load Yolo
-    net = cv2.dnn.readNet(WEIGHTS_PATH + "yolov3-tiny.weights",WEIGHTS_PATH + "yolov3-tiny.cfg")
+    net = cv2.dnn.readNet(WEIGHTS_PATH + "yolov3.weights",WEIGHTS_PATH + "yolov3.cfg")
     layer_names = net.getLayerNames()
     output_layers = [layer_names[i[0] - 1] for i in net.getUnconnectedOutLayers()]
     

@@ -1,6 +1,17 @@
 # Introduction 
 
-This project aims to analyse coronavirus impact. 
+This project aims to analyse coronavirus impact. Our goal was to find a metric enabling us to measure the confinement degree of a population.
+
+Every 3 minutes, it scans images from webcam in Swedish cities and count people in the streets (using Yolo'darknet CNN). This process enable us to create a database gathering information about confinement in Stockholm and Goteborg.
+This dataset is used in further analysis to compare confinement respect with COVID-19 spreading : 
+[github repo](https://github.com/MastafaF/corona_confinement_dashboard/edit/master/Readme.md)
+[website](https://corona-confinement.herokuapp.com/)
+
+
+Remember: 
+### STAY SAFE, STAY HOME!
+
+
 
 # TODO:
 * Add more cities in Sweden like Gothenburg ( just the two big ones: Stockholm and Gothenburg ) 
@@ -10,21 +21,7 @@ This project aims to analyse coronavirus impact.
     * mean(nb_persons_detected)
     * max(nb_persons_detected) 
 
-
-# Goals 
-
-Questions of interest: 
-
-* Question 1 
-* Question 2 
-
 # Resources  
-
-Resource_Question_1: 
-
-Resource_Questions_2: 
-
-
 
 
 Research paper dataset :

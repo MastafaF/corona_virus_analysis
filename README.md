@@ -46,3 +46,8 @@ https://www.kaggle.com/general/128354
 
 Live data about coronavirus
 https://www.worldometers.info/coronavirus/#countries
+
+# Contributors
+
+<img src='https://github.com/MastafaF/corona_confinement_dashboard/blob/master/ressources/pictures/photo_mastafa.jpeg' href= 'https://github.com/MastafaF' width=100 height=100 style="border-radius:50%"> <img src='https://github.com/MastafaF/corona_confinement_dashboard/blob/master/ressources/pictures/photo_quentin.jpeg' href = 'https://github.com/quentindubourgdeluzencon' width=100 height=100 style="border-radius:50%">
+

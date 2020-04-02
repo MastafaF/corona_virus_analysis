@@ -11,6 +11,7 @@ import sys
 #  $Env:CORONA = "C:\Users\Quentin\Desktop\corona_virus_analysis"
 assert os.environ.get('CORONA'), 'Please set the environment variable CORONA'
 CORONA = os.environ['CORONA']
+CORONAWEIGHTS = os.environ['CORONAWEIGHTS']
 CONFIG_PATH = CORONA + "/config/"
 WEIGHTS_PATH = CORONAWEIGHTS
 sys.path.append(CORONA + '/data/')

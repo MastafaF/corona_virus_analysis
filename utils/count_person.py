@@ -12,7 +12,7 @@ import sys
 assert os.environ.get('CORONA'), 'Please set the environment variable CORONA'
 CORONA = os.environ['CORONA']
 CONFIG_PATH = CORONA + "/config/"
-WEIGHTS_PATH = CORONA + "/weights/"
+WEIGHTS_PATH = CORONAWEIGHTS
 sys.path.append(CORONA + '/data/')
 
 
